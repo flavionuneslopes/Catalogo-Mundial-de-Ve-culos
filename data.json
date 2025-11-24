@@ -1,0 +1,2369 @@
+[
+  {
+    "nome": "Fusca",
+    "marca": "Volkswagen",
+    "design": "Carroceria arredondada de duas portas, faróis circulares, para-lamas salientes, estilo clássico e reconhecível.",
+    "mecanica": "Motor traseiro refrigerado a ar, tração traseira",
+    "popularidade": "Ícone cultural em vários países, especialmente no Brasil e no México",
+    "categoria": "Hatch",
+    "produção": "1938 a 2003, com mais de 21 milhões de unidades vendidas mundialmente",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Fusca"
+  },
+  {
+    "nome": "Model T",
+    "marca": "Ford",
+    "design": "Design utilitário e simples, chassi elevado, carroceria preta como padrão para otimizar a produção em massa.",
+    "mecanica": "Motor dianteiro de 4 cilindros, tração traseira, transmissão planetária de 2 velocidades.",
+    "popularidade": "Primeiro carro produzido em massa, revolucionou a indústria e popularizou o automóvel.",
+    "categoria": "Sedan",
+    "produção": "1908-1927, mais de 15 milhões de unidades produzidas.",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Model_T"
+  },
+  {
+    "nome": "Corvette C1",
+    "marca": "Chevrolet",
+    "design": "Roadster de dois lugares com carroceria de fibra de vidro, faróis únicos e traseira curta.",
+    "mecanica": "Motor dianteiro de 6 cilindros em linha (posteriormente V8), tração traseira.",
+    "popularidade": "Inaugurou a linhagem do icônico carro esportivo americano.",
+    "categoria": "Sports Car",
+    "produção": "1953-1962, marcou o início de uma lenda.",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Corvette_(C1)"
+  },
+  {
+    "nome": "911",
+    "marca": "Porsche",
+    "design": "Silhueta icônica com teto fastback, faróis redondos e para-lamas pronunciados.",
+    "mecanica": "Motor boxer de 6 cilindros montado na traseira, tração traseira (posteriormente integral).",
+    "popularidade": "Um dos carros esportivos mais reconhecidos e duradouros da história.",
+    "categoria": "Sports Car",
+    "produção": "1964-presente, evoluindo continuamente ao longo de décadas.",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_911"
+  },
+  {
+    "nome": "Miura",
+    "marca": "Lamborghini",
+    "design": "Design revolucionário de Marcello Gandini, baixo, largo, com faróis escamoteáveis e 'cílios'.",
+    "mecanica": "Motor V12 central-traseiro transversal, tração traseira.",
+    "popularidade": "Considerado o primeiro supercarro da história, definiu um novo padrão de desempenho e estilo.",
+    "categoria": "Supercar",
+    "produção": "1966-1973, um marco na indústria automotiva.",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Miura"
+  },
+  {
+    "nome": "Cooper",
+    "marca": "Mini",
+    "design": "Carroceria compacta de duas portas, design 'caixa', com rodas nos cantos para maximizar o espaço interno.",
+    "mecanica": "Motor dianteiro transversal, tração dianteira, suspensão independente inovadora.",
+    "popularidade": "Ícone britânico, famoso por sua agilidade (go-kart feeling) e sucesso em ralis.",
+    "categoria": "Hatch",
+    "produção": "1959-2000 (clássico), um dos carros mais influentes do século XX.",
+    "link": "https://pt.wikipedia.org/wiki/Mini"
+  },
+  {
+    "nome": "250 GTO",
+    "marca": "Ferrari",
+    "design": "Coupé de corrida com capô longo, traseira curta (Kammback) e três entradas de ar características no nariz.",
+    "mecanica": "Motor V12 dianteiro, tração traseira, focado em desempenho para competições.",
+    "popularidade": "Considerado o 'Santo Graal' dos carros clássicos, extremamente raro e valioso.",
+    "categoria": "GT",
+    "produção": "1962-1964, apenas 36 unidades construídas.",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_250_GTO"
+  },
+  {
+    "nome": "Corolla",
+    "marca": "Toyota",
+    "design": "Evoluiu de um subcompacto simples para um sedan médio, sempre com foco em praticidade e confiabilidade.",
+    "mecanica": "Configuração tradicional de motor dianteiro e tração dianteira na maioria das gerações.",
+    "popularidade": "O carro mais vendido da história mundial, sinônimo de durabilidade e baixo custo de manutenção.",
+    "categoria": "Sedan",
+    "produção": "1966-presente, um fenômeno global de vendas.",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Corolla"
+  },
+  {
+    "nome": "Civic",
+    "marca": "Honda",
+    "design": "Começou como um hatch subcompacto e cresceu em tamanho e sofisticação ao longo das gerações.",
+    "mecanica": "Motor dianteiro transversal e tração dianteira, conhecido pela eficiência e engenharia inteligente.",
+    "popularidade": "Extremamente popular globalmente, conhecido pela confiabilidade, economia e versões esportivas (Si, Type R).",
+    "categoria": "Hatch",
+    "produção": "1972-presente, um dos pilares da Honda.",
+    "link": "https://pt.wikipedia.org/wiki/Honda_Civic"
+  },
+  {
+    "nome": "Golf GTI",
+    "marca": "Volkswagen",
+    "design": "Baseado no Golf, com detalhes esportivos sutis como a faixa vermelha na grade e interior com tecido xadrez.",
+    "mecanica": "Motor dianteiro mais potente, suspensão ajustada para desempenho, tração dianteira.",
+    "popularidade": "Criador do segmento 'hot hatch' (compacto esportivo), amado por sua dirigibilidade divertida e praticidade.",
+    "categoria": "Hatch",
+    "produção": "1976-presente, uma referência em seu nicho.",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Golf_GTI"
+  },
+  {
+    "nome": "Niva",
+    "marca": "Lada",
+    "design": "SUV compacto e funcional com carroceria monobloco, design simples e robusto.",
+    "mecanica": "Tração 4x4 permanente com reduzida e bloqueio de diferencial central, suspensão independente na dianteira.",
+    "popularidade": "Famoso por sua incrível capacidade off-road e simplicidade mecânica, um ícone cult.",
+    "categoria": "SUV",
+    "produção": "1977-presente, com poucas alterações estruturais.",
+    "link": "https://pt.wikipedia.org/wiki/Lada_Niva"
+  },
+  {
+    "nome": "M3 E30",
+    "marca": "BMW",
+    "design": "Baseado no Série 3 coupé, com para-lamas alargados ('box flares') e aerodinâmica aprimorada para homologação de corrida.",
+    "mecanica": "Motor 4 cilindros de alta rotação, tração traseira, suspensão e freios de competição.",
+    "popularidade": "Lenda do automobilismo (DTM) e um dos carros de motorista mais celebrados de todos os tempos.",
+    "categoria": "Coupe",
+    "produção": "1986-1991, um ícone da divisão M da BMW.",
+    "link": "https://pt.wikipedia.org/wiki/BMW_M3#E30"
+  },
+  {
+    "nome": "Quattro",
+    "marca": "Audi",
+    "design": "Coupé angular com para-lamas alargados, baseado no Audi 80.",
+    "mecanica": "Motor 5 cilindros turbo e, crucialmente, o inovador sistema de tração integral permanente 'Quattro'.",
+    "popularidade": "Revolucionou o mundo dos ralis e popularizou a tração integral em carros de passeio de alto desempenho.",
+    "categoria": "Coupe",
+    "produção": "1980-1991, mudou as regras do jogo.",
+    "link": "https://pt.wikipedia.org/wiki/Audi_Quattro"
+  },
+  {
+    "nome": "300 SL Gullwing",
+    "marca": "Mercedes-Benz",
+    "design": "Famoso por suas portas 'asa de gaivota' (gullwing), uma necessidade devido ao seu chassi tubular.",
+    "mecanica": "Primeiro carro de produção com injeção direta de combustível, motor 6 cilindros inclinado.",
+    "popularidade": "Um dos carros mais icônicos e bonitos já feitos, um supercarro de sua época."
+  },
+  {
+    "nome": "4CV",
+    "marca": "Renault",
+    "design": "Pequeno sedan de 4 portas com carroceria arredondada, inspirado no VW Fusca.",
+    "mecanica": "Motor e tração traseiros, foi o primeiro carro francês a vender mais de um milhão de unidades.",
+    "popularidade": "Crucial para a motorização da França no pós-guerra, conhecido como 'le motte de beurre' (o torrão de manteiga).",
+    "produção": "1947-1961, um símbolo da recuperação francesa.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Renault_4CV"
+  },
+  {
+    "nome": "DS",
+    "marca": "Citroën",
+    "design": "Design futurista e aerodinâmico, com carenagem nas rodas traseiras e um visual de 'nave espacial'.",
+    "mecanica": "Revolucionário sistema de suspensão hidropneumática, faróis direcionais e freios a disco.",
+    "popularidade": "Um ícone de inovação e design, muito à frente de seu tempo. Símbolo de status e vanguarda.",
+    "produção": "1955-1975, um dos carros mais influentes da história.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Citro%C3%ABn_DS"
+  },
+  {
+    "nome": "500",
+    "marca": "Fiat",
+    "design": "Microcarro de duas portas com teto de lona e design simpático, projetado para as ruas estreitas da Itália.",
+    "mecanica": "Motor de 2 cilindros refrigerado a ar montado na traseira, tração traseira.",
+    "popularidade": "Motorizou a Itália no pós-guerra, tornando-se um ícone do estilo de vida italiano ('La Dolce Vita').",
+    "produção": "1957-1975 (clássico), um símbolo da Itália.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Fiat_500"
+  },
+  {
+    "nome": "Opala",
+    "marca": "Chevrolet",
+    "design": "Baseado no Opel Rekord C, com estilo de 'garrafa de Coca-Cola', disponível como sedan e coupé.",
+    "mecanica": "Motor dianteiro (4 ou 6 cilindros), tração traseira. Famoso pela robustez e desempenho nas versões 6 cilindros.",
+    "popularidade": "Um dos carros mais amados e icônicos do Brasil, com uma legião de fãs e presença em corridas.",
+    "produção": "1968-1992, um marco da indústria automobilística brasileira.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Opala"
+  },
+  {
+    "nome": "Mustang",
+    "marca": "Ford",
+    "design": "Criou o segmento 'pony car' com seu capô longo, traseira curta e estilo esportivo acessível.",
+    "mecanica": "Motor dianteiro (6 cilindros ou V8), tração traseira, com inúmeras opções de personalização.",
+    "popularidade": "Fenômeno cultural instantâneo, sinônimo de liberdade e do 'Sonho Americano'.",
+    "produção": "1964-presente, um dos nomes mais icônicos da indústria automotiva.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Mustang"
+  },
+  {
+    "nome": "Skyline GT-R R34",
+    "marca": "Nissan",
+    "design": "Coupé musculoso e angular, com aerofólio traseiro imponente e as icônicas lanternas redondas.",
+    "mecanica": "Motor 6 cilindros em linha biturbo (RB26DETT), tração integral ATTESA E-TS Pro e sistema de esterçamento nas quatro rodas.",
+    "popularidade": "Apelidado de 'Godzilla', ícone da cultura JDM, famoso pelos filmes 'Velozes e Furiosos' e jogos 'Gran Turismo'.",
+    "produção": "1999-2002, o auge de uma linhagem lendária.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+  },
+  {
+    "nome": "Charger R/T",
+    "marca": "Dodge",
+    "design": "Design 'garrafa de Coca-Cola' com grade dianteira oculta e lanternas traseiras duplas, um dos visuais mais agressivos da era muscle car.",
+    "mecanica": "Grandes motores V8 (como o 440 Magnum e 426 Hemi), tração traseira, focado em potência bruta.",
+    "popularidade": "Imortalizado no filme 'Bullitt' e na série 'Os Gatões', um símbolo da era dos muscle cars.",
+    "produção": "A geração de 1968-1970 é a mais icônica.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Dodge_Charger"
+  },
+  {
+    "nome": "Willys MB",
+    "marca": "Jeep",
+    "design": "Design puramente funcional e militar: sem portas, teto de lona, para-brisa rebatível e grade de 9 fendas.",
+    "mecanica": "Motor 4 cilindros 'Go-Devil', tração 4x4 com reduzida, chassi de longarinas.",
+    "popularidade": "Herói da Segunda Guerra Mundial, é o precursor de todos os veículos Jeep e um símbolo de robustez.",
+    "produção": "1941-1945, fundamental para o esforço de guerra Aliado.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Willys_MB"
+  },
+  {
+    "nome": "Impreza WRX STI",
+    "marca": "Subaru",
+    "design": "Sedan (ou hatch) com grande entrada de ar no capô, aerofólio traseiro gigante e pintura azul com rodas douradas icônica.",
+    "mecanica": "Motor boxer turbo, tração integral simétrica (Symmetrical AWD), DNA de rali.",
+    "popularidade": "Lenda do Campeonato Mundial de Rali (WRC), rival histórico do Mitsubishi Lancer Evolution.",
+    "produção": "1994-presente (como WRX STI), um favorito dos entusiastas.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Subaru_Impreza_WRX_STI"
+  },
+  {
+    "nome": "Veyron",
+    "marca": "Bugatti",
+    "design": "Forma de gota de duas cores, projetada para estabilidade em altíssima velocidade, com uma entrada de ar proeminente no teto.",
+    "mecanica": "Motor W16 quad-turbo de 8.0 litros, tração integral, mais de 1000 cavalos de potência.",
+    "popularidade": "Redefiniu o conceito de hipercarro, sendo o primeiro carro de produção a ultrapassar 400 km/h.",
+    "produção": "2005-2015, uma maravilha da engenharia moderna.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Bugatti_Veyron"
+  },
+  {
+    "nome": "Model S",
+    "marca": "Tesla",
+    "design": "Sedan de luxo com linhas fluidas e minimalistas, maçanetas retráteis e um interior dominado por uma enorme tela sensível ao toque.",
+    "mecanica": "Totalmente elétrico, com um ou dois motores, tração traseira ou integral, e aceleração estonteante.",
+    "popularidade": "Provou que carros elétricos podem ser desejáveis, luxuosos e ter alto desempenho, mudando a indústria.",
+    "produção": "2012-presente, o carro que estabeleceu a Tesla como uma grande força.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Model_S"
+  },
+  {
+    "nome": "F1",
+    "marca": "McLaren",
+    "design": "Posição de dirigir central com dois assentos para passageiros recuados, design focado na aerodinâmica e leveza.",
+    "mecanica": "Motor V12 aspirado da BMW com cofre do motor folheado a ouro para dissipação de calor, chassi de fibra de carbono.",
+    "popularidade": "Considerado por muitos o maior supercarro de todos os tempos, detentor do recorde de velocidade para carros aspirados.",
+    "produção": "1992-1998, uma obra-prima da engenharia.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/McLaren_F1"
+  },
+  {
+    "nome": "Taycan",
+    "marca": "Porsche",
+    "design": "Sedan esportivo baixo e largo que reinterpreta a identidade visual da Porsche para a era elétrica.",
+    "mecanica": "Totalmente elétrico com arquitetura de 800 volts para recarga ultrarrápida, transmissão de 2 velocidades no eixo traseiro.",
+    "popularidade": "Primeiro veículo totalmente elétrico da Porsche, aclamado por trazer a dinâmica de condução da marca para o mundo EV.",
+    "produção": "2019-presente, um marco para a Porsche.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_Taycan"
+  },
+  {
+    "nome": "F-150 Lightning",
+    "marca": "Ford",
+    "design": "Mantém o visual da F-150 tradicional, mas com uma barra de luz futurista na dianteira e traseira.",
+    "mecanica": "Totalmente elétrica, com dois motores (tração integral) e um 'frunk' (porta-malas dianteiro) gigante.",
+    "popularidade": "Extremamente popular por eletrificar a picape mais vendida da América, combinando utilidade com tecnologia.",
+    "produção": "2022-presente, um divisor de águas para picapes elétricas.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Ford_F-150_Lightning"
+  },
+  {
+    "nome": "Ioniq 5",
+    "marca": "Hyundai",
+    "design": "Estilo retrô-futurista inspirado no Hyundai Pony de 1974, com linhas angulares e iluminação 'pixelada'.",
+    "mecanica": "Totalmente elétrico, construído na plataforma E-GMP, com arquitetura de 800V e opção de tração traseira ou integral.",
+    "popularidade": "Aclamado pelo design arrojado, interior espaçoso e tecnologia avançada, ganhando vários prêmios de 'Carro do Ano'.",
+    "produção": "2021-presente, um sucesso de crítica e público.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Hyundai_Ioniq_5"
+  },
+  {
+    "nome": "Cybertruck",
+    "marca": "Tesla",
+    "design": "Design angular e poligonal radical, com um exoesqueleto de aço inoxidável ultra-resistente.",
+    "mecanica": "Totalmente elétrico, com opções de um, dois ou três motores, suspensão a ar adaptativa e direção nas quatro rodas.",
+    "popularidade": "Extremamente polarizador e viral desde sua apresentação, gerou enorme expectativa e debate.",
+    "produção": "Iniciada em 2023, um dos veículos mais aguardados da década.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Cybertruck"
+  },
+  {
+    "nome": "Nevera",
+    "marca": "Rimac",
+    "design": "Hipercarro elétrico com aerodinâmica ativa e linhas fluidas, projetado para desempenho extremo.",
+    "mecanica": "Quatro motores elétricos (um por roda) gerando quase 2000 cv, com vetorização de torque avançada.",
+    "popularidade": "Conhecido por quebrar múltiplos recordes de aceleração e velocidade para carros elétricos, mostrando o potencial da tecnologia.",
+    "produção": "2021-presente, produção limitada a 150 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Rimac_Nevera"
+  },
+  {
+    "nome": "LaFerrari",
+    "marca": "Ferrari",
+    "design": "Hipercarro com design agressivo e aerodinâmico inspirado na F1, com linhas esculpidas para máxima downforce.",
+    "mecanica": "Primeiro híbrido da Ferrari, combinando um motor V12 aspirado com um sistema HY-KERS para quase 1000 cv.",
+    "popularidade": "Parte da 'Santíssima Trindade' dos hipercarros (com McLaren P1 e Porsche 918), um marco para a Ferrari.",
+    "produção": "2013-2016 (Coupé), produção limitada e altamente exclusiva.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/LaFerrari"
+  },
+  {
+    "nome": "P1",
+    "marca": "McLaren",
+    "design": "Design orgânico e focado na função aerodinâmica, com uma enorme asa traseira móvel e 'encolhido' em torno dos componentes.",
+    "mecanica": "Sistema híbrido com motor V8 biturbo e motor elétrico, com modos de condução extremos, incluindo 'Race Mode'.",
+    "popularidade": "Sucessor espiritual do McLaren F1, parte da 'Santíssima Trindade' dos hipercarros híbridos.",
+    "produção": "2013-2015, produção limitada a 375 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/McLaren_P1"
+  },
+  {
+    "nome": "918 Spyder",
+    "marca": "Porsche",
+    "design": "Hipercarro com teto removível e saídas de escape montadas no topo, atrás dos encostos de cabeça.",
+    "mecanica": "Híbrido plug-in com motor V8 de corrida e dois motores elétricos (um em cada eixo), proporcionando tração integral.",
+    "popularidade": "O mais 'tecnológico' da 'Santíssima Trindade', demonstrou como a hibridização poderia melhorar o desempenho e a eficiência.",
+    "produção": "2013-2015, produção limitada a 918 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_918_Spyder"
+  },
+  {
+    "nome": "Chiron",
+    "marca": "Bugatti",
+    "design": "Evolução do Veyron, com uma distinta linha em 'C' na lateral e uma traseira agressiva com uma barra de luz única.",
+    "mecanica": "Motor W16 quad-turbo aprimorado com 1500 cv, focado em luxo e velocidade máxima.",
+    "popularidade": "Sucessor do Veyron, continuou a tradição da Bugatti de quebrar recordes de velocidade, superando 300 mph (490 km/h).",
+    "produção": "2016-presente, o auge do luxo e da velocidade com motor a combustão.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Bugatti_Chiron"
+  },
+  {
+    "nome": "Aventador",
+    "marca": "Lamborghini",
+    "design": "Design angular e agressivo inspirado em caças a jato, com portas tesoura e um visual imponente.",
+    "mecanica": "Motor V12 aspirado, tração integral e chassi monocoque de fibra de carbono.",
+    "popularidade": "O principal modelo V12 da Lamborghini por uma década, sinônimo de extravagância e som visceral.",
+    "produção": "2011-2022, um supercarro icônico do século XXI.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Aventador"
+  },
+  {
+    "nome": "GT",
+    "marca": "Ford",
+    "design": "Design de 'carro de corrida para as ruas' com aerodinâmica extrema, incluindo 'contrafortes voadores' e uma asa ativa.",
+    "mecanica": "Motor V6 EcoBoost biturbo montado centralmente, suspensão ativa e chassi de fibra de carbono.",
+    "popularidade": "Criado para vencer as 24 Horas de Le Mans (o que fez em 2016), é um carro de produção extremamente exclusivo e focado.",
+    "produção": "2017-2022, produção limitada e muito cobiçada.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ford_GT"
+  },
+  {
+    "nome": "NSX",
+    "marca": "Honda",
+    "design": "Inspirado em um caça F-16, com uma cabine avançada, traseira longa e faróis escamoteáveis.",
+    "mecanica": "Primeiro carro de produção com chassi e carroceria totalmente em alumínio, motor V6 VTEC central e ajuste de chassi por Ayrton Senna.",
+    "popularidade": "Chocou o mundo ao provar que um supercarro poderia ser confiável e fácil de dirigir no dia a dia, sem sacrificar o desempenho.",
+    "produção": "1990-2005, um marco na história dos carros esportivos.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Honda_NSX"
+  },
+  {
+    "nome": "Supra MK4",
+    "marca": "Toyota",
+    "design": "Design arredondado e musculoso, com um aerofólio traseiro icônico e um interior focado no motorista.",
+    "mecanica": "Famoso pelo motor 6 cilindros em linha 2JZ-GTE, conhecido por sua robustez e enorme potencial de preparação.",
+    "popularidade": "Lenda da cultura JDM e de 'Velozes e Furiosos', um dos carros japoneses mais cultuados de todos os tempos.",
+    "produção": "1993-2002, um ícone dos anos 90.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Supra"
+  },
+  {
+    "nome": "RX-7 FD",
+    "marca": "Mazda",
+    "design": "Design atemporal, baixo, curvilíneo e elegante, considerado um dos carros mais bonitos já feitos.",
+    "mecanica": "Motor Wankel (rotativo) 13B biturbo sequencial, proporcionando alta potência em um pacote leve e compacto.",
+    "popularidade": "Amado pelo seu design, dirigibilidade equilibrada e o som único do motor rotativo.",
+    "produção": "1992-2002, o auge da tecnologia de motor rotativo da Mazda.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Mazda_RX-7"
+  },
+  {
+    "nome": "Lancer Evolution VI",
+    "marca": "Mitsubishi",
+    "design": "Sedan agressivo com para-choques robustos, grande aerofólio e design focado na aerodinâmica para rali.",
+    "mecanica": "Motor 2.0 turbo (4G63T), tração integral avançada (AWC) e Active Yaw Control (AYC).",
+    "popularidade": "Famoso pela rivalidade com o Subaru Impreza no WRC, especialmente na edição Tommi Mäkinen.",
+    "produção": "1999-2001, uma das gerações mais icônicas do Evo.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+  },
+  {
+    "nome": "Countach",
+    "marca": "Lamborghini",
+    "design": "Design em forma de cunha extremamente baixo e largo, com portas tesoura, o 'pôster de parede' de uma geração.",
+    "mecanica": "Motor V12 longitudinal montado na traseira (LP - Longitudinale Posteriore), tração traseira.",
+    "popularidade": "O arquétipo do supercarro exótico e extravagante, definiu a imagem da Lamborghini por décadas.",
+    "produção": "1974-1990, um ícone dos anos 70 e 80.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Countach"
+  },
+  {
+    "nome": "Testarossa",
+    "marca": "Ferrari",
+    "design": "Marcado pelas enormes entradas de ar laterais 'ralador de queijo', um design largo e baixo.",
+    "mecanica": "Motor V12 boxer (12 cilindros opostos a 180°), montado centralmente.",
+    "popularidade": "Símbolo dos anos 80, imortalizado na série de TV 'Miami Vice'.",
+    "produção": "1984-1996 (incluindo as evoluções 512 TR e F512 M).",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_Testarossa"
+  },
+  {
+    "nome": "F40",
+    "marca": "Ferrari",
+    "design": "Carro de corrida para as ruas, com design cru, aerodinâmica funcional, asa traseira icônica e janela traseira de Lexan.",
+    "mecanica": "Motor V8 biturbo, uso extensivo de materiais compósitos (Kevlar, fibra de carbono), interior espartano.",
+    "popularidade": "O último carro aprovado pessoalmente por Enzo Ferrari, celebrado por sua experiência de condução pura e visceral.",
+    "produção": "1987-1992, um dos supercarros mais reverenciados da história.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_F40"
+  },
+  {
+    "nome": "DB5",
+    "marca": "Aston Martin",
+    "design": "GT italiano com elegância britânica, carroceria 'Superleggera' da Carrozzeria Touring.",
+    "mecanica": "Motor 6 cilindros em linha, tração traseira, focado em viagens rápidas e confortáveis.",
+    "popularidade": "Imortalizado como o carro de James Bond no filme '007 contra Goldfinger', um dos carros mais famosos do cinema.",
+    "produção": "1963-1965, um ícone de estilo e cultura pop.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Aston_Martin_DB5"
+  },
+  {
+    "nome": "E-Type",
+    "marca": "Jaguar",
+    "design": "Capô extremamente longo, cabine recuada e linhas sensuais, descrito por Enzo Ferrari como 'o carro mais bonito já feito'.",
+    "mecanica": "Motor 6 cilindros em linha (posteriormente V12), suspensão traseira independente e freios a disco nas quatro rodas.",
+    "popularidade": "Um ícone dos anos 60, oferecia desempenho de supercarro por uma fração do preço de seus rivais.",
+    "produção": "1961-1975, uma obra-prima do design automotivo.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Jaguar_E-Type"
+  },
+  {
+    "nome": "Viper",
+    "marca": "Dodge",
+    "design": "Design brutal e minimalista com capô imenso, cabine recuada e escapamentos laterais.",
+    "mecanica": "Motor V10 de caminhão retrabalhado pela Lamborghini, tração traseira, sem auxílios eletrônicos nas primeiras gerações.",
+    "popularidade": "Conhecido por ser um carro 'selvagem' e exigente, uma reinterpretação moderna do Shelby Cobra.",
+    "produção": "1992-2017, um ícone americano de força bruta.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Dodge_Viper"
+  },
+  {
+    "nome": "Camaro Z28",
+    "marca": "Chevrolet",
+    "design": "Pony car com estilo agressivo, faixas de corrida e um visual esportivo para rivalizar com o Ford Mustang.",
+    "mecanica": "Criado para homologação na corrida Trans-Am, com motor V8 de 302 polegadas cúbicas, suspensão e freios aprimorados.",
+    "popularidade": "A versão de desempenho mais focada do Camaro original, um ícone das corridas americanas.",
+    "produção": "A primeira geração (1967-1969) é a mais lendária.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Camaro_(primeira_gera%C3%A7%C3%A3o)"
+  },
+  {
+    "nome": "Challenger",
+    "marca": "Dodge",
+    "design": "Um dos maiores e mais luxuosos pony cars, com uma ampla gama de cores vibrantes ('High Impact').",
+    "mecanica": "Disponível com uma vasta gama de motores, desde 6 cilindros até o lendário V8 426 Hemi.",
+    "popularidade": "Estrela do filme 'Corrida contra o Destino' (Vanishing Point), um ícone cult da era muscle car.",
+    "produção": "A primeira geração (1970-1974) é a mais celebrada.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Dodge_Challenger"
+  },
+  {
+    "nome": "GTO",
+    "marca": "Pontiac",
+    "design": "Baseado no Pontiac Tempest, mas com um visual mais esportivo, entradas de ar no capô e emblemas GTO.",
+    "mecanica": "Considerado o primeiro muscle car, popularizou a fórmula de colocar um motor grande (V8 de 389 pol³) em um carro médio.",
+    "popularidade": "Iniciou a era de ouro dos muscle cars, um sucesso de marketing e vendas.",
+    "produção": "1964-1974, um marco na história automotiva americana.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Pontiac_GTO"
+  },
+  {
+    "nome": "Cobra 427",
+    "marca": "Shelby",
+    "design": "Roadster britânico (AC Ace) com para-lamas extremamente alargados para acomodar pneus largos e um visual intimidador.",
+    "mecanica": "Motor V8 Ford 427 de corrida (7.0 litros) em um chassi leve, resultando em uma aceleração lendária e brutal.",
+    "popularidade": "Um dos carros mais icônicos e replicados da história, sinônimo de desempenho extremo e puro.",
+    "produção": "1965-1967, uma lenda criada por Carroll Shelby.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/AC_Cobra"
+  },
+  {
+    "nome": "Giulia GTA",
+    "marca": "Alfa Romeo",
+    "design": "Versão de corrida do Giulia Coupé, com painéis de alumínio ('Allegerita') para redução de peso.",
+    "mecanica": "Motor twin-cam com ignição dupla (twin-spark), focado em agilidade e desempenho em pista.",
+    "popularidade": "Dominou as corridas de carros de turismo em sua época, um ícone da Alfa Romeo e da Autodelta.",
+    "produção": "1965-1969, um carro de corrida de sucesso.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Alfa_Romeo_Giulia_GTA"
+  },
+  {
+    "nome": "Stratos HF",
+    "marca": "Lancia",
+    "design": "Design em forma de cunha radical, muito curto e largo, com um para-brisa panorâmico para máxima visibilidade em ralis.",
+    "mecanica": "Primeiro carro projetado do zero para rali, com motor V6 da Ferrari Dino montado centralmente.",
+    "popularidade": "Lenda do rali, venceu o Campeonato Mundial por três anos consecutivos (1974, 1975, 1976).",
+    "produção": "1973-1978, um ícone do automobilismo.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Lancia_Stratos"
+  },
+  {
+    "nome": "Delta Integrale",
+    "marca": "Lancia",
+    "design": "Hatchback familiar com para-lamas alargados e um visual agressivo, projetado para dominar o rali.",
+    "mecanica": "Motor turbo e um dos sistemas de tração integral mais eficazes de sua época.",
+    "popularidade": "O carro mais bem-sucedido da história do Campeonato Mundial de Rali, com 6 títulos de construtores consecutivos.",
+    "produção": "1987-1994 (versões Integrale), uma lenda do WRC.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Lancia_Delta_Integrale"
+  },
+  {
+    "nome": "205 T16",
+    "marca": "Peugeot",
+    "design": "Baseado no popular 205, mas com carroceria de 2 portas, para-lamas alargados e uma traseira que se abre inteira para revelar o motor.",
+    "mecanica": "Carro de rali do Grupo B, com motor central-traseiro turbo e tração integral.",
+    "popularidade": "Um dos ícones da era mais insana do rali (Grupo B), vencendo os campeonatos de 1985 e 1986.",
+    "produção": "1984, apenas 200 unidades de rua para homologação.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Peugeot_205_Turbo_16"
+  },
+  {
+    "nome": "Clio V6",
+    "marca": "Renault",
+    "design": "Hatch compacto com para-lamas extremamente alargados e grandes entradas de ar laterais, pois o motor fica onde estaria o banco traseiro.",
+    "mecanica": "Motor V6 montado em posição central-traseira, tração traseira. Um 'hot hatch' levado ao extremo.",
+    "popularidade": "Um carro de projeto 'maluco' e raro, um ícone cult moderno por sua configuração inusitada.",
+    "produção": "2001-2005, em duas fases.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Renault_Clio_V6_Renault_Sport"
+  },
+  {
+    "nome": "Alpine A110",
+    "marca": "Alpine",
+    "design": "Pequeno coupé esportivo com carroceria de fibra de vidro e um design elegante e aerodinâmico.",
+    "mecanica": "Motor e tração traseiros (baseado em componentes Renault), muito leve e ágil.",
+    "popularidade": "Um carro de rali de muito sucesso, venceu o primeiro Campeonato Mundial de Rali em 1973.",
+    "produção": "1961-1977, um ícone francês do automobilismo.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Alpine_A110"
+  },
+  {
+    "nome": "Carrera GT",
+    "marca": "Porsche",
+    "design": "Roadster com chassi de fibra de carbono e um design focado na aerodinâmica e leveza.",
+    "mecanica": "Motor V10 aspirado derivado de um projeto de corrida da F1/Le Mans, câmbio manual de 6 marchas.",
+    "popularidade": "Considerado um dos últimos supercarros 'analógicos', celebrado por seu som incrível e experiência de condução pura.",
+    "produção": "2004-2007, um futuro clássico.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_Carrera_GT"
+  },
+  {
+    "nome": "Enzo",
+    "marca": "Ferrari",
+    "design": "Design agressivo com um nariz inspirado em um carro de Fórmula 1 e aerodinâmica ativa.",
+    "mecanica": "Motor V12 aspirado, câmbio semi-automático derivado da F1 e chassi de fibra de carbono.",
+    "popularidade": "Batizada em homenagem ao fundador da empresa, foi o auge da tecnologia da Ferrari no início dos anos 2000.",
+    "produção": "2002-2004, produção limitada a 400 unidades.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_Enzo"
+  },
+  {
+    "nome": "Zonda",
+    "marca": "Pagani",
+    "design": "Design exótico e teatral, com uma cabine em forma de bolha e os icônicos quatro escapes centrais em um círculo.",
+    "mecanica": "Motor V12 da Mercedes-AMG, chassi de fibra de carbono e uma atenção obsessiva aos detalhes artesanais.",
+    "popularidade": "O carro que lançou a Pagani, famoso por seu acabamento impecável, som incrível e desempenho visceral.",
+    "produção": "1999-2019 (em várias edições especiais), uma obra de arte sobre rodas.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Pagani_Zonda"
+  },
+  {
+    "nome": "Huayra",
+    "marca": "Pagani",
+    "design": "Sucessor do Zonda, com portas asa de gaivota e aerodinâmica ativa com quatro flaps independentes.",
+    "mecanica": "Motor V12 biturbo da Mercedes-AMG, mantendo o foco no artesanato e materiais exóticos.",
+    "popularidade": "Continuou o legado da Pagani de combinar arte e engenharia de ponta.",
+    "produção": "2012-presente (em várias versões), um dos hipercarros mais exclusivos do mundo.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Pagani_Huayra"
+  },
+  {
+    "nome": "Agera",
+    "marca": "Koenigsegg",
+    "design": "Hipercarro com teto removível ('targa') e as portas diédricas sincro-hélice características da marca.",
+    "mecanica": "Motor V8 biturbo desenvolvido pela própria Koenigsegg, com inovações como rodas de fibra de carbono.",
+    "popularidade": "A versão Agera RS quebrou o recorde mundial de velocidade para carros de produção em 2017.",
+    "produção": "2011-2018, consolidou a Koenigsegg como uma força nos hipercarros.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Koenigsegg_Agera"
+  },
+  {
+    "nome": "Jesko",
+    "marca": "Koenigsegg",
+    "design": "Focado em aerodinâmica, com uma asa traseira gigante e um design agressivo para máxima downforce.",
+    "mecanica": "Inovadora transmissão 'Light Speed Transmission' (LST) de 9 velocidades e múltiplas embreagens, motor V8 aprimorado.",
+    "popularidade": "Batizado em homenagem ao pai do fundador, Christian von Koenigsegg. A versão Absolut foi projetada para ser o carro mais rápido da marca.",
+    "produção": "2021-presente, o auge da tecnologia Koenigsegg.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Koenigsegg_Jesko"
+  },
+  {
+    "nome": "Roadster",
+    "marca": "Tesla",
+    "design": "Baseado no chassi do Lotus Elise, um pequeno roadster de dois lugares.",
+    "mecanica": "Primeiro carro de produção a usar baterias de íon de lítio, totalmente elétrico.",
+    "popularidade": "O primeiro carro da Tesla, provou a viabilidade da tecnologia de veículos elétricos para o público em geral.",
+    "produção": "2008-2012, um marco histórico para a indústria automotiva.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Roadster_(2008)"
+  },
+  {
+    "nome": "Model 3",
+    "marca": "Tesla",
+    "design": "Sedan compacto com design extremamente minimalista, sem grade dianteira e com um interior dominado por uma única tela horizontal.",
+    "mecanica": "Totalmente elétrico, com opções de tração traseira ou integral, focado em eficiência e tecnologia Autopilot.",
+    "popularidade": "O carro que levou os veículos elétricos para o mercado de massa, tornando-se um dos carros mais vendidos do mundo.",
+    "produção": "2017-presente, um sucesso de vendas global.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Model_3"
+  },
+  {
+    "nome": "Model X",
+    "marca": "Tesla",
+    "design": "SUV com as icônicas 'Falcon Wing Doors' (portas asa de falcão) traseiras e um enorme para-brisa panorâmico.",
+    "mecanica": "Totalmente elétrico, com tração integral padrão e desempenho de aceleração de supercarro.",
+    "popularidade": "Famoso por suas portas únicas e por ser um dos SUVs mais rápidos do mercado.",
+    "produção": "2015-presente, um SUV familiar com um toque de ficção científica.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Model_X"
+  },
+  {
+    "nome": "Model Y",
+    "marca": "Tesla",
+    "design": "SUV crossover baseado na plataforma do Model 3, com um design similar, mas mais alto e espaçoso.",
+    "mecanica": "Compartilha a mecânica e o interior minimalista com o Model 3, totalmente elétrico com opção de tração integral.",
+    "popularidade": "Tornou-se o carro mais vendido do mundo em 2023, combinando a popularidade dos SUVs com a tecnologia da Tesla.",
+    "produção": "2020-presente, um fenômeno de vendas.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Tesla_Model_Y"
+  },
+  {
+    "nome": "Leaf",
+    "marca": "Nissan",
+    "design": "Hatchback de cinco portas com um design distinto, otimizado para aerodinâmica.",
+    "mecanica": "Totalmente elétrico, foi um dos primeiros EVs produzidos em massa por uma grande montadora.",
+    "popularidade": "Pioneiro no mercado de veículos elétricos de massa, foi por um tempo o EV mais vendido da história.",
+    "produção": "2010-presente, ajudou a popularizar os carros elétricos.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_Leaf"
+  },
+  {
+    "nome": "i3",
+    "marca": "BMW",
+    "design": "Design futurista e peculiar, com portas traseiras suicidas, chassi de fibra de carbono e uso de materiais sustentáveis no interior.",
+    "mecanica": "Totalmente elétrico com tração traseira, com uma opção de extensor de alcance (um pequeno motor a gasolina).",
+    "popularidade": "Um dos primeiros carros de produção com chassi de fibra de carbono, um projeto ousado e inovador da BMW.",
+    "produção": "2013-2022, um carro elétrico urbano e de vanguarda.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/BMW_i3"
+  },
+  {
+    "nome": "e-tron",
+    "marca": "Audi",
+    "design": "SUV de luxo com o design sóbrio e tecnológico da Audi, com opção de câmeras no lugar dos espelhos retrovisores.",
+    "mecanica": "Totalmente elétrico com tração integral Quattro elétrica, focado em conforto e qualidade de construção.",
+    "popularidade": "Primeiro veículo totalmente elétrico de produção em massa da Audi, estabeleceu a marca no mercado de EVs de luxo.",
+    "produção": "2018-presente (agora como Q8 e-tron).",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Audi_e-tron"
+  },
+  {
+    "nome": "i-Pace",
+    "marca": "Jaguar",
+    "design": "SUV com design de 'cabine avançada', capô curto e traseira alta, aproveitando a ausência de um motor a combustão dianteiro.",
+    "mecanica": "Totalmente elétrico com dois motores (tração integral), aclamado por sua excelente dinâmica de condução.",
+    "popularidade": "Vencedor de múltiplos prêmios de 'Carro do Ano', elogiado por seu design e dirigibilidade esportiva.",
+    "produção": "2018-presente, um dos primeiros rivais diretos da Tesla no segmento de luxo.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Jaguar_I-Pace"
+  },
+  {
+    "nome": "Mustang Mach-E",
+    "marca": "Ford",
+    "design": "SUV elétrico que incorpora elementos de design do Mustang, como as lanternas traseiras de três barras e o capô longo.",
+    "mecanica": "Totalmente elétrico, com opções de tração traseira ou integral e um interior moderno com uma grande tela vertical.",
+    "popularidade": "Gerou controvérsia por usar o nome Mustang em um SUV, mas se tornou um sucesso de vendas para a Ford.",
+    "produção": "2020-presente, um passo importante na eletrificação da Ford.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Mustang_Mach-E"
+  },
+  {
+    "nome": "EV6",
+    "marca": "Kia",
+    "design": "Crossover com design arrojado e esportivo, teto flutuante e uma barra de luz traseira curva.",
+    "mecanica": "Construído na plataforma E-GMP, com arquitetura de 800V, carregamento ultrarrápido e uma versão GT de alto desempenho.",
+    "popularidade": "Aclamado pelo design, desempenho (especialmente na versão GT) e tecnologia, eleito Carro do Ano na Europa em 2022.",
+    "produção": "2021-presente, ajudou a transformar a imagem da Kia.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Kia_EV6"
+  },
+  {
+    "nome": "Lucid Air",
+    "marca": "Lucid",
+    "design": "Sedan de luxo com foco em aerodinâmica e eficiência, resultando em um interior muito espaçoso para seu tamanho exterior.",
+    "mecanica": "Totalmente elétrico com tecnologia de motor e bateria altamente eficiente, oferecendo alcances recordes (mais de 800 km).",
+    "popularidade": "Posicionado como um rival de luxo para o Tesla Model S, focado em eficiência, alcance e qualidade de acabamento.",
+    "produção": "2021-presente, uma nova força no mercado de EVs de luxo.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Lucid_Air"
+  },
+  {
+    "nome": "R1T",
+    "marca": "Rivian",
+    "design": "Picape com design amigável e aventureiro, marcada pelos faróis ovais e uma barra de luz horizontal.",
+    "mecanica": "Totalmente elétrica com quatro motores (um por roda), permitindo um controle de tração preciso e a capacidade de girar no próprio eixo ('Tank Turn').",
+    "popularidade": "Famosa por suas características inovadoras, como o 'Gear Tunnel', um compartimento de carga transversal.",
+    "produção": "2021-presente, a primeira picape elétrica a chegar ao mercado de massa.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Rivian_R1T"
+  },
+  {
+    "nome": "Hummer EV",
+    "marca": "GMC",
+    "design": "Reinterpretação moderna e massiva do Hummer clássico, com teto removível e um visual imponente.",
+    "mecanica": "Totalmente elétrico, extremamente pesado, mas com até 1000 cv e recursos como o 'CrabWalk' (direção nas quatro rodas que permite mover-se na diagonal).",
+    "popularidade": "O retorno de um nome icônico em um formato elétrico extravagante e cheio de tecnologia.",
+    "produção": "2021-presente, um 'super-truck' elétrico.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/GMC_Hummer_EV"
+  },
+  {
+    "nome": "Prius",
+    "marca": "Toyota",
+    "design": "Design focado na aerodinâmica para máxima eficiência, especialmente a segunda geração com sua icônica forma de 'gota'.",
+    "mecanica": "Pioneiro no uso do sistema 'Hybrid Synergy Drive', combinando um motor a gasolina e um motor elétrico.",
+    "popularidade": "O carro que popularizou a tecnologia híbrida em todo o mundo, tornando-se sinônimo de carro ecológico.",
+    "produção": "1997-presente, um marco na história da eletrificação.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Prius"
+  },
+  {
+    "nome": "Mirai",
+    "marca": "Toyota",
+    "design": "A primeira geração tinha um design futurista e controverso; a segunda adotou um visual de sedan de luxo tradicional.",
+    "mecanica": "Veículo elétrico a célula de combustível (FCEV), que usa hidrogênio para gerar eletricidade, emitindo apenas água.",
+    "popularidade": "Um dos poucos carros a hidrogênio disponíveis comercialmente, representa a aposta da Toyota nesta tecnologia.",
+    "produção": "2014-presente, um pioneiro na tecnologia de hidrogênio.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Mirai"
+  },
+  {
+    "nome": "Land Cruiser",
+    "marca": "Toyota",
+    "design": "Evoluiu de um jipe militar para um SUV de luxo, mas sempre mantendo um design robusto e imponente.",
+    "mecanica": "Construção de chassi sobre longarinas, tração 4x4 avançada e motores robustos (diesel e gasolina).",
+    "popularidade": "Lendário por sua durabilidade e capacidade off-road, confiável em algumas das condições mais extremas do planeta.",
+    "produção": "1951-presente, sinônimo de confiabilidade e aventura.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Land_Cruiser"
+  },
+  {
+    "nome": "Defender",
+    "marca": "Land Rover",
+    "design": "Design icônico, quadrado e utilitário, com painéis de alumínio e rebites expostos.",
+    "mecanica": "Chassi de longarinas, tração 4x4 permanente e construção robusta, projetado para máxima capacidade off-road.",
+    "popularidade": "Um ícone da exploração e aventura, reconhecível em todo o mundo.",
+    "produção": "1983-2016 (clássico), uma lenda do mundo 4x4.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Land_Rover_Defender"
+  },
+  {
+    "nome": "G-Class",
+    "marca": "Mercedes-Benz",
+    "design": "Design militar quadrado e atemporal, com dobradiças de porta expostas e um som de travamento característico.",
+    "mecanica": "Chassi de longarinas, três bloqueios de diferencial (dianteiro, central e traseiro) e construção robusta.",
+    "popularidade": "Evoluiu de um veículo militar para um ícone de luxo e status, mantendo sua incrível capacidade off-road.",
+    "produção": "1979-presente, um dos veículos em produção há mais tempo.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-Benz_Classe_G"
+  },
+  {
+    "nome": "Wrangler",
+    "marca": "Jeep",
+    "design": "Descendente direto do Willys MB, com grade de sete fendas, faróis redondos, portas e teto removíveis.",
+    "mecanica": "Chassi de longarinas, eixos sólidos e sistemas de tração 4x4 robustos (Command-Trac, Rock-Trac).",
+    "popularidade": "Sinônimo de off-road e liberdade, um dos veículos mais personalizáveis do mercado.",
+    "produção": "1986-presente, o coração da marca Jeep.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Jeep_Wrangler"
+  },
+  {
+    "nome": "Bronco",
+    "marca": "Ford",
+    "design": "SUV com design quadrado e robusto, com teto e portas removíveis para competir com o Jeep.",
+    "mecanica": "Focado em capacidade off-road, com tração 4x4 e eixos robustos.",
+    "popularidade": "Um clássico do off-road americano. A nova geração (lançada em 2021) foi um enorme sucesso, revivendo a rivalidade com o Wrangler.",
+    "produção": "1966-1996 e 2021-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Bronco"
+  },
+  {
+    "nome": "Jimny",
+    "marca": "Suzuki",
+    "design": "SUV ultracompacto e quadrado, com um visual simpático e funcional.",
+    "mecanica": "Chassi de longarinas, eixos rígidos e tração 4x4 com reduzida, uma receita de off-road séria em um pacote pequeno.",
+    "popularidade": "Amado por sua agilidade, baixo custo e surpreendente capacidade off-road, um ícone cult.",
+    "produção": "1970-presente, um pequeno gigante do off-road.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Suzuki_Jimny"
+  },
+  {
+    "nome": "Pajero",
+    "marca": "Mitsubishi",
+    "design": "SUV robusto que evoluiu de um visual utilitário para um design mais luxuoso e urbano ao longo das gerações.",
+    "mecanica": "Famoso pelo sistema de tração Super Select 4WD, que permite alternar entre 4x2, 4x4 e 4x4 com bloqueio.",
+    "popularidade": "Lendário por seu sucesso no Rally Dakar, com 12 vitórias, um recorde para a competição.",
+    "produção": "1982-2021, um ícone do Dakar e do off-road.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Mitsubishi_Pajero"
+  },
+  {
+    "nome": "Escort RS Cosworth",
+    "marca": "Ford",
+    "design": "Baseado no Escort, mas com para-lamas alargados e um aerofólio traseiro duplo gigante e icônico ('whale tail').",
+    "mecanica": "Chassi e mecânica do Sierra Cosworth, com motor 2.0 turbo Cosworth YB e tração integral.",
+    "popularidade": "Um ícone do rali e um herói dos carros de rua dos anos 90, um 'homologation special' muito desejado.",
+    "produção": "1992-1996, uma lenda da Ford RS.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Escort_RS_Cosworth"
+  },
+  {
+    "nome": "Sierra RS Cosworth",
+    "marca": "Ford",
+    "design": "Sedan familiar transformado em carro de corrida, com um aerofólio traseiro enorme e um kit de carroceria agressivo.",
+    "mecanica": "Motor 2.0 turbo desenvolvido pela Cosworth, tração traseira, projetado para dominar as corridas de turismo.",
+    "popularidade": "Um ícone das corridas de turismo e um herói da classe trabalhadora britânica, famoso por seu desempenho acessível.",
+    "produção": "1986-1992, o início de uma parceria lendária.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Sierra#Cosworth"
+  },
+  {
+    "nome": "Celica GT-Four",
+    "marca": "Toyota",
+    "design": "Versão de alto desempenho do Celica, com capô e para-choques mais agressivos para homologação de rali.",
+    "mecanica": "Motor 2.0 turbo e tração integral, projetado para competir no Campeonato Mundial de Rali.",
+    "popularidade": "Um carro de rali de muito sucesso para a Toyota, vencendo múltiplos campeonatos nos anos 90.",
+    "produção": "1986-1999 (em três gerações: ST165, ST185, ST205).",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Celica_GT-Four"
+  },
+  {
+    "nome": "GT-R (R35)",
+    "marca": "Nissan",
+    "design": "Coupé grande e angular com um design funcional e imponente, e as icônicas quatro lanternas traseiras redondas.",
+    "mecanica": "Motor V6 biturbo montado à mão, tração integral ATTESA E-TS e transmissão de dupla embreagem montada na traseira (transeixo).",
+    "popularidade": "Apelidado de 'Godzilla', famoso por seu desempenho de supercarro a um preço relativamente acessível, humilhando rivais mais caros.",
+    "produção": "2007-presente, um ícone da engenharia japonesa moderna.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_GT-R"
+  },
+  {
+    "nome": "300ZX",
+    "marca": "Nissan",
+    "design": "Design baixo, largo e moderno para a época, um dos primeiros carros projetados com auxílio de CAD.",
+    "mecanica": "Motor V6 biturbo, com tecnologias avançadas como esterçamento nas quatro rodas (Super HICAS).",
+    "popularidade": "Um dos grandes carros esportivos japoneses dos anos 90, junto com Supra, RX-7 e NSX.",
+    "produção": "1989-2000 (geração Z32).",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_300ZX"
+  },
+  {
+    "nome": "S2000",
+    "marca": "Honda",
+    "design": "Roadster clássico com capô longo, traseira curta e um interior minimalista focado no motorista.",
+    "mecanica": "Famoso por seu motor 2.0 aspirado que girava a 9000 RPM, tração traseira e distribuição de peso perfeita (50/50).",
+    "popularidade": "Celebrado por sua experiência de condução pura e envolvente, um dos melhores roadsters já feitos.",
+    "produção": "1999-2009, um ícone da Honda.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Honda_S2000"
+  },
+  {
+    "nome": "MX-5 Miata",
+    "marca": "Mazda",
+    "design": "Inspirado nos roadsters britânicos clássicos, mas com confiabilidade japonesa. Design simples, leve e amigável.",
+    "mecanica": "Motor dianteiro, tração traseira, baixo peso e foco na diversão ao dirigir ('Jinba Ittai' - cavalo e cavaleiro como um só).",
+    "popularidade": "O roadster mais vendido da história, amado por sua dirigibilidade pura, acessibilidade e confiabilidade.",
+    "produção": "1989-presente, um sucesso contínuo.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Mazda_MX-5"
+  },
+  {
+    "nome": "Elan",
+    "marca": "Lotus",
+    "design": "Pequeno e elegante roadster com carroceria de fibra de vidro e faróis escamoteáveis.",
+    "mecanica": "Chassi de aço em 'espinha dorsal', motor twin-cam e suspensão independente nas quatro rodas, extremamente leve.",
+    "popularidade": "Celebrado por sua dirigibilidade telepática e agilidade, foi a inspiração para o Mazda MX-5.",
+    "produção": "1962-1975, uma referência em dinâmica de condução.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Lotus_Elan"
+  },
+  {
+    "nome": "Esprit",
+    "marca": "Lotus",
+    "design": "Design em forma de cunha 'papel dobrado' de Giorgetto Giugiaro, baixo e exótico.",
+    "mecanica": "Motor central, chassi em espinha dorsal e carroceria de fibra de vidro, sempre focado na leveza.",
+    "popularidade": "Famoso por se transformar em um submarino no filme de James Bond 'O Espião que me Amava'.",
+    "produção": "1976-2004, um dos modelos mais longevos da Lotus.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Lotus_Esprit"
+  },
+  {
+    "nome": "Elise",
+    "marca": "Lotus",
+    "design": "Pequeno roadster com um design simpático e funcional, focado na leveza extrema.",
+    "mecanica": "Revolucionário chassi de alumínio colado, carroceria de compósito e sem auxílios como direção hidráulica.",
+    "popularidade": "Salvou a Lotus e redefiniu o conceito de carro esportivo leve no final do século XX, aclamado por sua dirigibilidade.",
+    "produção": "1996-2021, a essência da filosofia da Lotus.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Lotus_Elise"
+  },
+  {
+    "nome": "Caterham 7",
+    "marca": "Caterham",
+    "design": "Design atemporal e minimalista, uma evolução direta do Lotus Seven de 1957, com rodas dianteiras expostas.",
+    "mecanica": "Chassi tubular, extremamente leve, motor dianteiro e tração traseira. A experiência de condução mais pura possível.",
+    "popularidade": "Um ícone da condução purista, oferecendo uma conexão incomparável entre motorista, carro e estrada.",
+    "produção": "1973-presente, um design que desafia o tempo.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Caterham_7"
+  },
+  {
+    "nome": "Atom",
+    "marca": "Ariel",
+    "design": "Não tem carroceria, apenas um exoesqueleto de chassi tubular visível, um design radical e minimalista.",
+    "mecanica": "Motor Honda (do Civic Type R) montado na traseira, extremamente leve, proporcionando aceleração de hipercarro.",
+    "popularidade": "Famoso pela experiência de condução visceral e pela aceleração que 'deforma o rosto', como visto no Top Gear.",
+    "produção": "2000-presente, o máximo em desempenho minimalista.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Ariel_Atom"
+  },
+  {
+    "nome": "X-Bow",
+    "marca": "KTM",
+    "design": "Carro de pista sem teto ou para-brisa, com chassi monocoque de fibra de carbono e design angular.",
+    "mecanica": "Primeiro carro da fabricante de motocicletas KTM, usa motor 2.0 turbo da Audi e foco total na dinâmica de pista.",
+    "popularidade": "Um brinquedo de pista para entusiastas, conhecido por sua agilidade e desempenho em curvas.",
+    "produção": "2008-presente, a filosofia da KTM em quatro rodas.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/KTM_X-Bow"
+  },
+  {
+    "nome": "DeLorean DMC-12",
+    "marca": "DeLorean",
+    "design": "Design em cunha de Giorgetto Giugiaro, com portas asa de gaivota e carroceria de aço inoxidável sem pintura.",
+    "mecanica": "Motor V6 PRV (Peugeot-Renault-Volvo) montado na traseira, com desempenho considerado decepcionante.",
+    "popularidade": "Imortalizado como a máquina do tempo na trilogia 'De Volta para o Futuro', um dos carros mais famosos do cinema.",
+    "produção": "1981-1983, mais famoso por seu papel na cultura pop do que por suas qualidades automotivas.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/DeLorean_DMC-12"
+  },
+  {
+    "nome": "Trans Am",
+    "marca": "Pontiac",
+    "design": "Versão de topo do Firebird, famosa pelo 'shaker hood' (entrada de ar que se projeta do capô e treme com o motor) e o grande pássaro de fogo no capô.",
+    "mecanica": "Grandes motores V8, tração traseira e foco em desempenho e estilo extravagante.",
+    "popularidade": "Ícone da cultura pop dos anos 70 e 80, especialmente o modelo preto e dourado do filme 'Agarra-me se Puderes' (Smokey and the Bandit).",
+    "produção": "1969-2002, um símbolo do muscle car americano.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Pontiac_Firebird"
+  },
+  {
+    "nome": "Firebird",
+    "marca": "Pontiac",
+    "design": "Pony car irmão do Chevrolet Camaro, compartilhando a mesma plataforma, mas com design e motores distintos da Pontiac.",
+    "mecanica": "Disponível com motores de 6 cilindros e V8, tração traseira.",
+    "popularidade": "Uma alternativa estilosa ao Camaro, cuja versão Trans Am se tornou mais famosa que o modelo base.",
+    "produção": "1967-2002, um clássico da era dos pony cars.",
+    "categoria": "Muscle Car",
+    "link": "https://pt.wikipedia.org/wiki/Pontiac_Firebird"
+  },
+  {
+    "nome": "Corvair",
+    "marca": "Chevrolet",
+    "design": "Carro compacto com design limpo e moderno para a época, sem grade dianteira.",
+    "mecanica": "Configuração incomum para um carro americano: motor boxer de 6 cilindros refrigerado a ar, montado na traseira.",
+    "popularidade": "Famoso pelo livro 'Unsafe at Any Speed' de Ralph Nader, que criticava sua segurança, manchando sua reputação.",
+    "produção": "1960-1969, um experimento ousado da GM.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Corvair"
+  },
+  {
+    "nome": "Bel Air",
+    "marca": "Chevrolet",
+    "design": "Ícone dos anos 50, especialmente o modelo 1957 com seus grandes 'rabos de peixe' e detalhes cromados.",
+    "mecanica": "Introduziu o famoso motor V8 'small-block' da Chevrolet, um marco na indústria.",
+    "popularidade": "Um símbolo da cultura americana dos anos 50, do otimismo do pós-guerra e do rock and roll.",
+    "produção": "O 'Tri-Five' (1955, 1956, 1957) é o período mais icônico.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Bel_Air"
+  },
+  {
+    "nome": "Impala",
+    "marca": "Chevrolet",
+    "design": "Famoso pela traseira com 'asas de morcego' e lanternas em forma de gota na geração de 1959. As versões SS (Super Sport) dos anos 60 são icônicas.",
+    "mecanica": "Carro de grande porte com opções de motor V8, incluindo os big-blocks 396 e 409.",
+    "popularidade": "Um dos carros mais vendidos da Chevrolet, ícone da cultura lowrider e referenciado na música (Beach Boys).",
+    "produção": "1958-presente (com interrupções), um nome clássico da Chevrolet.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Impala"
+  },
+  {
+    "nome": "El Camino",
+    "marca": "Chevrolet",
+    "design": "Híbrido de carro e picape ('coupé utility'), com a frente e a cabine de um carro de passeio e uma caçamba na traseira.",
+    "mecanica": "Baseado em plataformas de carros de passeio (como o Chevelle), oferecendo dirigibilidade de carro com a utilidade de uma picape.",
+    "popularidade": "Um veículo de nicho, mas com um status cult, especialmente as versões SS com motores V8 big-block.",
+    "produção": "1959-1960 e 1964-1987.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_El_Camino"
+  },
+  {
+    "nome": "Ranchero",
+    "marca": "Ford",
+    "design": "Pioneiro do segmento 'coupé utility' nos EUA, dois anos antes do El Camino. Combinava o estilo de um sedan com uma caçamba.",
+    "mecanica": "Baseado em várias plataformas da Ford ao longo dos anos, como Falcon, Fairlane e Torino.",
+    "popularidade": "Criou um nicho popular, embora seu rival El Camino seja frequentemente mais lembrado.",
+    "produção": "1957-1979.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Ranchero"
+  },
+  {
+    "nome": "Thunderbird",
+    "marca": "Ford",
+    "design": "Criado para competir com o Corvette, mas focado em luxo pessoal em vez de esportividade pura. Roadster de 2 lugares na primeira geração.",
+    "mecanica": "Motor V8 e foco em conforto, criando o segmento de 'Personal Luxury Car'.",
+    "popularidade": "Um ícone de estilo dos anos 50 e 60, especialmente a primeira geração (1955-1957).",
+    "produção": "1955-1997 e 2002-2005.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Thunderbird"
+  },
+  {
+    "nome": "Continental",
+    "marca": "Lincoln",
+    "design": "Famoso pela quarta geração (1961-1969) com seu design limpo, elegante e portas traseiras suicidas.",
+    "mecanica": "Carro de luxo de grande porte, com motores V8 e V12 ao longo de sua história.",
+    "popularidade": "O modelo de 1961 é um ícone de design e infelizmente famoso por ser o carro em que o presidente John F. Kennedy foi assassinado.",
+    "produção": "Um nome icônico da Lincoln, produzido em várias gerações de 1939 a 2020.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Lincoln_Continental"
+  },
+  {
+    "nome": "Eldorado",
+    "marca": "Cadillac",
+    "design": "O auge do luxo e da extravagância da Cadillac, famoso pelos maiores 'rabos de peixe' da indústria no modelo de 1959.",
+    "mecanica": "Carro de luxo pessoal, pioneiro em recursos como para-brisa panorâmico e ar-condicionado.",
+    "popularidade": "Um símbolo de status e do excesso de design americano dos anos 50 e 60.",
+    "produção": "1953-2002, o topo de linha da Cadillac por décadas.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Cadillac_Eldorado"
+  },
+  {
+    "nome": "DeVille",
+    "marca": "Cadillac",
+    "design": "O pilar da linha Cadillac, representando o luxo americano em grande escala, com muito cromo e 'rabos de peixe' nos primeiros anos.",
+    "mecanica": "Grandes sedans e coupés com motores V8, focados em um passeio suave e confortável.",
+    "popularidade": "Um dos nomes mais conhecidos da Cadillac, sinônimo de carro de luxo americano por gerações.",
+    "produção": "1959-2005, um clássico da Cadillac.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Cadillac_de_Ville"
+  },
+  {
+    "nome": "300",
+    "marca": "Chrysler",
+    "design": "A série 'letter series' (C-300, 300B, etc.) é considerada um dos primeiros muscle cars, combinando luxo e alto desempenho.",
+    "mecanica": "Equipado com potentes motores V8 Hemi, focado em desempenho e sucesso nas corridas da NASCAR.",
+    "popularidade": "Um carro de 'banqueiro com alma de hot-rodder', um dos carros americanos de maior desempenho dos anos 50.",
+    "produção": "A 'letter series' durou de 1955 a 1965.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chrysler_300_letter_series"
+  },
+  {
+    "nome": "New Yorker",
+    "marca": "Chrysler",
+    "design": "Um dos modelos mais longevos da história, representava o luxo da Chrysler, com designs que refletiam cada época.",
+    "mecanica": "Carro de luxo de topo de linha, com inovações como a transmissão automática 'Fluid Drive'.",
+    "popularidade": "Um nome que atravessou mais de 50 anos, sinônimo de luxo da Chrysler.",
+    "produção": "1940-1996, um pilar da Chrysler.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chrysler_New_Yorker"
+  },
+  {
+    "nome": "Prowler",
+    "marca": "Plymouth",
+    "design": "Design retrô inspirado nos hot rods dos anos 30, com rodas dianteiras expostas e para-lamas de motocicleta.",
+    "mecanica": "Construção extensiva em alumínio, mas criticado por usar um motor V6 em vez de um V8.",
+    "popularidade": "Um ousado exercício de design de produção, um carro de exibição que chegou às ruas.",
+    "produção": "1997 e 1999-2002, um dos últimos modelos da marca Plymouth.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Plymouth_Prowler"
+  },
+  {
+    "nome": "PT Cruiser",
+    "marca": "Chrysler",
+    "design": "Design retrô inspirado nos carros dos anos 30 e 40, com para-lamas salientes e teto alto.",
+    "mecanica": "Baseado em uma plataforma de carro compacto (Neon), com tração dianteira e um interior versátil.",
+    "popularidade": "Um enorme sucesso inicial devido ao seu estilo único, criando um nicho próprio no mercado.",
+    "produção": "2001-2010, um fenômeno de design do início dos anos 2000.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Chrysler_PT_Cruiser"
+  },
+  {
+    "nome": "HHR",
+    "marca": "Chevrolet",
+    "design": "Design retrô inspirado no Chevrolet Suburban de 1949, com para-lamas salientes e teto alto.",
+    "mecanica": "Baseado na plataforma do Chevrolet Cobalt, com tração dianteira. Uma versão SS com motor turbo foi oferecida.",
+    "popularidade": "A resposta da Chevrolet ao sucesso do PT Cruiser, com um estilo retrô similar.",
+    "produção": "2006-2011.",
+    "categoria": "Wagon",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_HHR"
+  },
+  {
+    "nome": "SSR",
+    "marca": "Chevrolet",
+    "design": "Picape com design retrô inspirado nas picapes Chevrolet Advance Design do final dos anos 40, com um teto rígido retrátil.",
+    "mecanica": "Baseado em uma plataforma de SUV (TrailBlazer), com motor V8 e tração traseira.",
+    "popularidade": "Um veículo de nicho e conceito ousado, combinando picape, conversível e muscle car.",
+    "produção": "2003-2006, um futuro clássico cult.",
+    "categoria": "Pickup Truck",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_SSR"
+  },
+  {
+    "nome": "Aztek",
+    "marca": "Pontiac",
+    "design": "Frequentemente listado como um dos carros mais feios já feitos, com um design desajeitado e revestimento plástico.",
+    "mecanica": "Baseado em uma plataforma de minivan, era um crossover versátil com recursos como uma barraca acoplável.",
+    "popularidade": "Um fracasso de vendas, mas ganhou status cult por sua aparição como o carro de Walter White na série 'Breaking Bad'.",
+    "produção": "2001-2005, um infame ícone da cultura pop.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Pontiac_Aztek"
+  },
+  {
+    "nome": "Multipla",
+    "marca": "Fiat",
+    "design": "Famoso por seu design controverso, com uma 'testa' ou 'degrau' abaixo do para-brisa e um visual de 'golfinho'.",
+    "mecanica": "Minivan compacta e extremamente prática, com duas fileiras de três assentos (seis lugares no total).",
+    "popularidade": "Aclamado por sua praticidade e visibilidade, mas ridicularizado por sua aparência. Tem um lugar no Museu de Arte Moderna (MoMA).",
+    "produção": "1998-2010, amado e odiado na mesma medida.",
+    "categoria": "Minivan",
+    "link": "https://pt.wikipedia.org/wiki/Fiat_Multipla"
+  },
+  {
+    "nome": "Uno",
+    "marca": "Fiat",
+    "design": "Design 'caixa' de Giorgetto Giugiaro, focado em eficiência de espaço e aerodinâmica (para a época).",
+    "mecanica": "Hatchback com motor dianteiro e tração dianteira, famoso no Brasil pela robustez da suspensão e versões esportivas (1.5R, Turbo).",
+    "popularidade": "Um enorme sucesso na Europa e no Brasil, onde foi produzido por quase 30 anos e se tornou um ícone popular.",
+    "produção": "1983-1995 (Europa), 1984-2013 (Brasil).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Fiat_Uno"
+  },
+  {
+    "nome": "Panda",
+    "marca": "Fiat",
+    "design": "Design utilitário e quadrado de Giorgetto Giugiaro, com janelas planas e um interior minimalista e versátil.",
+    "mecanica": "Carro urbano simples e barato, com uma famosa versão 4x4 que se tornou um ícone cult por sua capacidade.",
+    "popularidade": "Um carro popular e duradouro na Europa, especialmente na Itália, conhecido por sua praticidade e baixo custo.",
+    "produção": "1980-presente (em várias gerações).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Fiat_Panda"
+  },
+  {
+    "nome": "Gol",
+    "marca": "Volkswagen",
+    "design": "Projetado no Brasil, evoluiu de um design simples para linhas mais arredondadas e modernas ao longo das gerações.",
+    "mecanica": "Inicialmente com motor boxer refrigerado a ar, depois adotou motores refrigerados a água. Famoso pelas versões esportivas GT, GTS e GTI.",
+    "popularidade": "Líder de vendas no Brasil por 27 anos consecutivos, um dos carros mais importantes e populares da história do país.",
+    "produção": "1980-2023, um fenômeno brasileiro.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Gol"
+  },
+  {
+    "nome": "Passat",
+    "marca": "Volkswagen",
+    "design": "Design fastback de Giorgetto Giugiaro na primeira geração, evoluindo para um sedan familiar mais tradicional.",
+    "mecanica": "Um dos primeiros VW com motor dianteiro refrigerado a água e tração dianteira, um grande avanço para a marca.",
+    "popularidade": "Um modelo de grande sucesso global para a VW, especialmente no Brasil com as versões esportivas TS e Pointer.",
+    "produção": "1973-presente, um pilar da linha Volkswagen.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Passat"
+  },
+  {
+    "nome": "Karmann Ghia",
+    "marca": "Volkswagen",
+    "design": "Design italiano elegante da Carrozzeria Ghia sobre um chassi de Fusca, um dos carros mais bonitos da VW.",
+    "mecanica": "Mecânica do Fusca, incluindo motor boxer refrigerado a ar e tração traseira, oferecendo estilo sem desempenho esportivo.",
+    "popularidade": "Um carro de imagem, vendido como um 'Fusca com roupa de festa', muito popular por seu estilo.",
+    "produção": "1955-1974, um clássico do design.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Karmann-Ghia"
+  },
+  {
+    "nome": "Brasilia",
+    "marca": "Volkswagen",
+    "design": "Projetado no Brasil, um hatchback de duas portas com área envidraçada ampla e um design funcional.",
+    "mecanica": "Baseado na plataforma do Fusca, com motor boxer traseiro refrigerado a ar.",
+    "popularidade": "Um enorme sucesso de vendas no Brasil nos anos 70, famoso pela música 'Brasília Amarela' dos Mamonas Assassinas.",
+    "produção": "1973-1982, um ícone da indústria nacional.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Bras%C3%ADlia"
+  },
+  {
+    "nome": "SP2",
+    "marca": "Volkswagen",
+    "design": "Coupé esportivo projetado no Brasil, com capô longo e baixo, traseira fastback e um design muito elogiado.",
+    "mecanica": "Baseado na plataforma da Variant, com motor boxer traseiro refrigerado a ar, cujo desempenho foi considerado fraco para o visual.",
+    "popularidade": "Apelidado de 'Sem Potência', é hoje um item de colecionador muito valorizado por seu design único e história.",
+    "produção": "1972-1976, um dos carros brasileiros mais bonitos.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_SP2"
+  },
+  {
+    "nome": "Kombi",
+    "marca": "Volkswagen",
+    "design": "Design 'pão de forma' icônico, com motorista sentado sobre o eixo dianteiro e máxima eficiência de espaço.",
+    "mecanica": "Baseada no Fusca, com motor boxer traseiro refrigerado a ar (no Brasil, adotou motor a água no final da vida).",
+    "popularidade": "Símbolo da contracultura e do movimento hippie nos anos 60, e um veículo de trabalho incansável em muitos países, como o Brasil.",
+    "produção": "1950-2013 (no Brasil), um dos veículos de produção mais longa da história.",
+    "categoria": "Minivan",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Kombi"
+  },
+  {
+    "nome": "Maverick",
+    "marca": "Ford",
+    "design": "Coupé com capô longo e traseira fastback, uma resposta da Ford do Brasil à crise do petróleo e ao sucesso do Chevette.",
+    "mecanica": "Disponível com motores de 4, 6 e, mais famosamente, V8 302, que o tornou um ícone de desempenho.",
+    "popularidade": "Um muscle car brasileiro, a versão GT V8 é um dos carros nacionais mais cultuados e desejados.",
+    "produção": "1973-1979 (no Brasil).",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Maverick"
+  },
+  {
+    "nome": "Corcel",
+    "marca": "Ford",
+    "design": "Baseado no Renault 12, um sedan familiar com design robusto. A segunda geração (Corcel II) tinha um design fastback mais moderno.",
+    "mecanica": "Motor dianteiro refrigerado a água e tração dianteira, derivado de um projeto da Willys-Overland.",
+    "popularidade": "Um carro familiar muito popular no Brasil, conhecido por sua robustez e conforto.",
+    "produção": "1968-1986, um sucesso de vendas da Ford no Brasil.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Corcel"
+  },
+  {
+    "nome": "Chevette",
+    "marca": "Chevrolet",
+    "design": "Pequeno sedan com design simples e clássico, lançado no Brasil pouco antes da crise do petróleo de 1973.",
+    "mecanica": "Configuração clássica de motor dianteiro e tração traseira, o que o tornou popular para manobras e preparação.",
+    "popularidade": "Um dos carros mais vendidos e populares da história do Brasil, conhecido por sua robustez e mecânica simples.",
+    "produção": "1973-1993, um carro muito querido pelos brasileiros.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Chevette"
+  },
+  {
+    "nome": "Monza",
+    "marca": "Chevrolet",
+    "design": "Baseado no Opel Ascona, um sedan médio com design aerodinâmico e moderno para a época.",
+    "mecanica": "Motor dianteiro transversal e tração dianteira, oferecendo um bom nível de conforto e tecnologia.",
+    "popularidade": "Carro mais vendido do Brasil por três anos consecutivos (1984-1986), um símbolo de status e modernidade nos anos 80.",
+    "produção": "1982-1996, um marco de luxo e tecnologia no mercado nacional.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Monza"
+  },
+  {
+    "nome": "Kadett",
+    "marca": "Chevrolet",
+    "design": "Hatchback com design aerodinâmico e moderno, incluindo vidros colados para um visual mais limpo.",
+    "mecanica": "Famoso pela versão esportiva GS (e posteriormente GSI), com motor 2.0 e painel digital.",
+    "popularidade": "Um objeto de desejo nos anos 90, especialmente a versão conversível (feita pela Bertone) e o esportivo GSI.",
+    "produção": "1989-1998, um ícone dos anos 90 no Brasil.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Chevrolet_Kadett"
+  },
+  {
+    "nome": "Escort",
+    "marca": "Ford",
+    "design": "Lançado no Brasil em 1983, com design moderno e aerodinâmico. A versão XR3, com aerofólio e faróis de milha, era um ícone.",
+    "mecanica": "Motor CHT de origem Renault, depois substituído pelo AP da Volkswagen durante a Autolatina. A segunda geração teve o motor Zetec.",
+    "popularidade": "O XR3 (normal e conversível) foi um dos carros mais desejados pelos jovens nos anos 80 e 90.",
+    "produção": "1983-2003 (no Brasil), um sucesso da Ford.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Escort"
+  },
+  {
+    "nome": "147",
+    "marca": "Fiat",
+    "design": "Versão brasileira do Fiat 127, um pequeno hatchback de 2 portas.",
+    "mecanica": "Primeiro carro da Fiat no Brasil e o primeiro carro a álcool produzido em série no mundo (1979). Motor dianteiro transversal.",
+    "popularidade": "Marcou a chegada da Fiat ao Brasil e foi um carro muito importante para a popularização do motor a álcool.",
+    "produção": "1976-1986, um marco na indústria brasileira.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Fiat_147"
+  },
+  {
+    "nome": "Dauphine",
+    "marca": "Renault",
+    "design": "Pequeno sedan de 4 portas com design arredondado, produzido no Brasil pela Willys-Overland.",
+    "mecanica": "Motor e tração traseiros, com desempenho modesto.",
+    "popularidade": "Ficou famoso no Brasil por sua fragilidade, gerando o apelido 'Leite Glória' ('desmancha sem bater').",
+    "produção": "1959-1968 (no Brasil).",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Renault_Dauphine"
+  },
+  {
+    "nome": "Gordini",
+    "marca": "Renault",
+    "design": "Uma versão melhorada do Dauphine, com acabamento superior e mais desempenho.",
+    "mecanica": "Motor traseiro com mais potência e câmbio de 4 marchas, melhorando o desempenho em relação ao Dauphine.",
+    "popularidade": "Uma tentativa de melhorar a imagem do Dauphine, mas ainda sofreu com a reputação de seu antecessor.",
+    "produção": "1962-1968 (no Brasil).",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Renault_Gordini"
+  },
+  {
+    "nome": "GT Malzoni",
+    "marca": "Puma",
+    "design": "Coupé de corrida com carroceria de fibra de vidro e design aerodinâmico, o precursor dos carros Puma.",
+    "mecanica": "Baseado na mecânica DKW, com motor de 3 cilindros e 2 tempos e tração dianteira.",
+    "popularidade": "Um carro de corrida de sucesso que deu origem a uma das mais famosas fabricantes de carros esportivos do Brasil, a Puma.",
+    "produção": "Produção muito limitada, principalmente para corridas, entre 1964 e 1966.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Puma_GT"
+  },
+  {
+    "nome": "GTE",
+    "marca": "Puma",
+    "design": "Coupé esportivo com carroceria de fibra de vidro e design inspirado em esportivos italianos como o Lamborghini Miura.",
+    "mecanica": "Baseado na plataforma e mecânica da VW (Brasilia/Karmann Ghia), com motor boxer traseiro refrigerado a ar.",
+    "popularidade": "O carro esportivo brasileiro mais famoso e um sucesso de exportação, um objeto de desejo nos anos 70.",
+    "produção": "1970-1980, o auge da marca Puma.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Puma_GTE"
+  },
+  {
+    "nome": "Miura (Brasil)",
+    "marca": "Miura",
+    "design": "Carro esportivo com design arrojado e futurista, famoso por ser tecnologicamente avançado para a época no Brasil.",
+    "mecanica": "Baseado na mecânica VW (Passat), com motor dianteiro. Introduziu itens como TV a bordo, sintetizador de voz e faróis escamoteáveis.",
+    "popularidade": "Um dos carros fora-de-série mais famosos do Brasil, conhecido por seu luxo e tecnologia.",
+    "produção": "1977-1992, um ícone dos carros customizados brasileiros.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Miura_(autom%C3%B3vel)"
+  },
+  {
+    "nome": "2CV",
+    "marca": "Citroën",
+    "design": "Design extremamente simples e utilitário, com teto de lona e janelas dobráveis, projetado para atravessar um campo arado com uma cesta de ovos sem quebrá-los.",
+    "mecanica": "Motor boxer de 2 cilindros refrigerado a ar, suspensão de curso longo interligada e tração dianteira.",
+    "popularidade": "Um ícone da França, motorizou o país no pós-guerra e é amado por sua simplicidade e caráter.",
+    "produção": "1948-1990, um dos carros mais icônicos da história.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+  },
+  {
+    "nome": "SM",
+    "marca": "Citroën",
+    "design": "GT de luxo com design futurista, frente com seis faróis sob uma cobertura de vidro e traseira fastback.",
+    "mecanica": "Combinava a suspensão hidropneumática da Citroën com um motor V6 da Maserati. Tinha direção com assistência variável (DIRAVI).",
+    "popularidade": "Um carro extremamente avançado e complexo para sua época, um ícone de tecnologia e design.",
+    "produção": "1970-1975, um GT único e incompreendido.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Citro%C3%ABn_SM"
+  },
+  {
+    "nome": "CX",
+    "marca": "Citroën",
+    "design": "Sucessor do DS, com um design fastback aerodinâmico e futurista, e um interior com painel de instrumentos em forma de 'luneta'.",
+    "mecanica": "Suspensão hidropneumática, motor dianteiro transversal e freios a disco nas quatro rodas.",
+    "popularidade": "Eleito Carro do Ano na Europa em 1975, continuou a tradição da Citroën de carros grandes, confortáveis e excêntricos.",
+    "produção": "1974-1991, o último 'verdadeiro' Citroën para muitos puristas.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Citro%C3%ABn_CX"
+  },
+  {
+    "nome": "XM",
+    "marca": "Citroën",
+    "design": "Design angular e em cunha da Bertone, com uma área envidraçada muito grande e uma janela traseira interna adicional.",
+    "mecanica": "Equipado com a suspensão Hydractive, uma evolução controlada eletronicamente da suspensão hidropneumática.",
+    "popularidade": "Eleito Carro do Ano na Europa em 1990, um carro executivo complexo e cheio de personalidade.",
+    "produção": "1989-2000.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Citro%C3%ABn_XM"
+  },
+  {
+    "nome": "504",
+    "marca": "Peugeot",
+    "design": "Design elegante da Pininfarina, com uma traseira rebaixada característica.",
+    "mecanica": "Motor dianteiro, tração traseira e suspensão de curso longo, conhecido por sua robustez e conforto.",
+    "popularidade": "Extremamente popular na África e na América do Sul por sua durabilidade lendária, um verdadeiro 'cavalo de batalha'.",
+    "produção": "1968-1983 (França), mas até 2006 em outros países.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Peugeot_504"
+  },
+  {
+    "nome": "405",
+    "marca": "Peugeot",
+    "design": "Sedan com design elegante e atemporal da Pininfarina. A versão esportiva Mi16 tinha um kit aerodinâmico discreto.",
+    "mecanica": "Tração dianteira, com uma suspensão traseira bem acertada que lhe rendeu elogios pela dirigibilidade.",
+    "popularidade": "Eleito Carro do Ano na Europa em 1988. A versão Mi16 é um ícone cult dos sedans esportivos.",
+    "produção": "1987-1997 (Europa), mas ainda produzido sob licença.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Peugeot_405"
+  },
+  {
+    "nome": "206",
+    "marca": "Peugeot",
+    "design": "Hatchback com design carismático e moderno, com faróis alongados e um visual ágil.",
+    "mecanica": "Tração dianteira e uma ampla gama de motores. A versão de rali (WRC) foi um enorme sucesso.",
+    "popularidade": "Um sucesso de vendas massivo para a Peugeot em todo o mundo, incluindo o Brasil. A versão WRC venceu múltiplos campeonatos.",
+    "produção": "1998-2013 (e além em alguns mercados), o carro mais vendido da Peugeot.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Peugeot_206"
+  },
+  {
+    "nome": "R5 Turbo",
+    "marca": "Renault",
+    "design": "Baseado no Renault 5, mas com para-lamas traseiros extremamente alargados para abrigar o motor e pneus largos.",
+    "mecanica": "Carro de rali com motor central-traseiro turbo e tração traseira, um 'homologation special'.",
+    "popularidade": "Um ícone do Grupo B e dos 'hot hatches' dos anos 80, famoso por seu desempenho explosivo e dirigibilidade desafiadora.",
+    "produção": "1980-1986, um clássico cult.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Renault_5_Turbo"
+  },
+  {
+    "nome": "Fuego",
+    "marca": "Renault",
+    "design": "Coupé esportivo com uma grande janela traseira em forma de bolha e um design aerodinâmico.",
+    "mecanica": "Primeiro carro de produção em massa com travamento central remoto e o primeiro coupé de 4 lugares com motor turbo.",
+    "popularidade": "Um coupé popular nos anos 80, especialmente na Argentina, onde teve uma carreira de sucesso no automobilismo.",
+    "produção": "1980-1992.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Renault_Fuego"
+  },
+  {
+    "nome": "Saab 900 Turbo",
+    "marca": "Saab",
+    "design": "Design excêntrico e único, com um para-brisa curvo e envolvente, e a chave de ignição no console central.",
+    "mecanica": "Pioneiro no uso de motores turbo em carros de produção em massa para desempenho confiável no dia a dia.",
+    "popularidade": "Um ícone cult, amado por arquitetos e acadêmicos, conhecido por sua segurança, individualidade e desempenho turbo.",
+    "produção": "1978-1994 (primeira geração).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Saab_900"
+  },
+  {
+    "nome": "240",
+    "marca": "Volvo",
+    "design": "Design quadrado e robusto ('caixote'), sinônimo de segurança e durabilidade.",
+    "mecanica": "Construção extremamente robusta, com foco em segurança passiva, introduzindo muitas inovações na área.",
+    "popularidade": "Um ícone da Volvo, famoso por sua longevidade (muitos rodam centenas de milhares de quilômetros) e segurança.",
+    "produção": "1974-1993, um dos modelos mais importantes da Volvo.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Volvo_S%C3%A9rie_200"
+  },
+  {
+    "nome": "850 R",
+    "marca": "Volvo",
+    "design": "Versão de alto desempenho da perua 850, um 'sleeper' que combinava a praticidade de uma perua com desempenho de carro esportivo.",
+    "mecanica": "Motor 5 cilindros turbo desenvolvido com a ajuda da Porsche, tração dianteira.",
+    "popularidade": "Famosa por sua participação (como perua) no Campeonato Britânico de Carros de Turismo (BTCC), uma imagem icônica.",
+    "produção": "1996-1997, uma perua de alto desempenho lendária.",
+    "categoria": "Wagon",
+    "link": "https://pt.wikipedia.org/wiki/Volvo_850"
+  },
+  {
+    "nome": "P1800",
+    "marca": "Volvo",
+    "design": "Coupé esportivo com design elegante e influências italianas, com pequenos 'rabos de peixe'.",
+    "mecanica": "Mecânica robusta da Volvo em uma carroceria esportiva.",
+    "popularidade": "Famoso como o carro do personagem Simon Templar (interpretado por Roger Moore) na série de TV 'O Santo'. Conhecido pela durabilidade, com um exemplar no Guinness Book por ter a maior quilometragem do mundo.",
+    "produção": "1961-1973.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Volvo_P1800"
+  },
+  {
+    "nome": "Amazon",
+    "marca": "Volvo",
+    "design": "Design elegante inspirado em carros americanos dos anos 50, mas com um toque europeu.",
+    "mecanica": "Primeiro carro do mundo a ser equipado com cintos de segurança de três pontos como item de série (a partir de 1959).",
+    "popularidade": "Estabeleceu a reputação da Volvo como líder em segurança automotiva.",
+    "produção": "1956-1970.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Volvo_Amazon"
+  },
+  {
+    "nome": "190E 2.5-16 Evo II",
+    "marca": "Mercedes-Benz",
+    "design": "Sedan compacto com um kit de carroceria extremamente agressivo, para-lamas alargados e uma asa traseira gigante, projetado para corridas.",
+    "mecanica": "Motor 2.5 de 4 cilindros desenvolvido pela Cosworth, suspensão ajustável, um 'homologation special' para o DTM.",
+    "popularidade": "Um ícone das corridas de turismo alemãs (DTM) e um dos sedans mais radicais já produzidos.",
+    "produção": "1990, apenas 502 unidades produzidas.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-Benz_W201"
+  },
+  {
+    "nome": "500E",
+    "marca": "Mercedes-Benz",
+    "design": "Um sedan W124 com para-lamas discretamente alargados, um 'sleeper' ou 'lobo em pele de cordeiro'.",
+    "mecanica": "Motor V8 do roadster SL500, com montagem final e modificações de chassi feitas pela Porsche.",
+    "popularidade": "Um sedan de alto desempenho lendário, fruto de uma colaboração única entre Mercedes e Porsche.",
+    "produção": "1991-1994.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-Benz_W124#500E"
+  },
+  {
+    "nome": "SLS AMG",
+    "marca": "Mercedes-Benz",
+    "design": "Reinterpretação moderna do 300 SL, com portas asa de gaivota, capô extremamente longo e cabine recuada.",
+    "mecanica": "Motor V8 6.2 aspirado da AMG (o último de seu tipo), montado na dianteira-central, com cárter seco.",
+    "popularidade": "Primeiro carro desenvolvido inteiramente pela AMG, celebrado por seu design dramático e som brutal.",
+    "produção": "2010-2014.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-Benz_SLS_AMG"
+  },
+  {
+    "nome": "CLK GTR",
+    "marca": "Mercedes-Benz",
+    "design": "Um carro de corrida de Le Mans (categoria GT1) adaptado para as ruas, com design extremo e aerodinâmico.",
+    "mecanica": "Motor V12 de corrida montado centralmente, um 'homologation special' construído em número muito limitado.",
+    "popularidade": "Um dos carros de rua mais raros e extremos dos anos 90, famoso por sua carreira nas pistas e pelo incidente em Le Mans onde o carro decolou.",
+    "produção": "1998-1999, cerca de 25 unidades de rua.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-Benz_CLK_GTR"
+  },
+  {
+    "nome": "M1",
+    "marca": "BMW",
+    "design": "Design em cunha de Giorgetto Giugiaro, o único supercarro de motor central da BMW.",
+    "mecanica": "Motor 6 cilindros em linha da divisão M, montado centralmente. Projeto desenvolvido em colaboração com a Lamborghini.",
+    "popularidade": "O primeiro carro da divisão M da BMW, gerou a famosa categoria de corrida monomarca Procar.",
+    "produção": "1978-1981, um supercarro raro e significativo.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/BMW_M1"
+  },
+  {
+    "nome": "850CSi",
+    "marca": "BMW",
+    "design": "GT de luxo com design em cunha, faróis escamoteáveis e ausência de coluna B para um visual de coupé elegante.",
+    "mecanica": "Versão M do Série 8, com motor V12 aprimorado e opção de câmbio manual.",
+    "popularidade": "O auge da Série 8 original, um GT tecnologicamente avançado e caro para sua época.",
+    "produção": "1992-1996.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/BMW_S%C3%A9rie_8_(E31)"
+  },
+  {
+    "nome": "Z8",
+    "marca": "BMW",
+    "design": "Design retrô-moderno que homenageia o icônico BMW 507 dos anos 50.",
+    "mecanica": "Chassi de alumínio e o motor V8 do M5 E39, um roadster de alto desempenho.",
+    "popularidade": "Famoso por sua aparição como carro de James Bond em 'O Mundo não é o Bastante'.",
+    "produção": "2000-2003, um clássico moderno.",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/BMW_Z8"
+  },
+  {
+    "nome": "i8",
+    "marca": "BMW",
+    "design": "Carro esportivo com design futurista e em camadas, portas diédricas e chassi de fibra de carbono.",
+    "mecanica": "Híbrido plug-in, combinando um motor 3 cilindros turbo na traseira com um motor elétrico na frente.",
+    "popularidade": "Um carro conceito que chegou à produção, mostrando uma visão do futuro dos carros esportivos.",
+    "produção": "2014-2020.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/BMW_i8"
+  },
+  {
+    "nome": "RS2 Avant",
+    "marca": "Audi",
+    "design": "Baseado na perua Audi 80, com rodas, freios e espelhos da Porsche, um 'sleeper' por excelência.",
+    "mecanica": "Motor 5 cilindros turbo da Audi, aprimorado e montado em colaboração com a Porsche. Tração integral Quattro.",
+    "popularidade": "A primeira perua de alto desempenho da Audi e o primeiro modelo da linha RS, um ícone cult que iniciou a tradição das 'super peruas'.",
+    "produção": "1994-1995.",
+    "categoria": "Wagon",
+    "link": "https://pt.wikipedia.org/wiki/Audi_RS2_Avant"
+  },
+  {
+    "nome": "TT",
+    "marca": "Audi",
+    "design": "Design Bauhaus revolucionário, com linhas curvas e simétricas, um marco do design automotivo dos anos 90.",
+    "mecanica": "Baseado na plataforma do Golf, com tração dianteira ou integral Quattro e motores turbo.",
+    "popularidade": "Um ícone de estilo instantâneo, que trouxe design de carro conceito para as ruas.",
+    "produção": "1998-2023, um sucesso de design para a Audi.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Audi_TT"
+  },
+  {
+    "nome": "R8",
+    "marca": "Audi",
+    "design": "Supercarro com design marcante, famoso por suas 'side blades' (lâminas laterais) de cor contrastante.",
+    "mecanica": "Baseado no Lamborghini Gallardo, com motor V8 ou V10 central e tração integral Quattro.",
+    "popularidade": "O 'supercarro do dia a dia', elogiado por ser fácil de dirigir e prático, sem sacrificar o desempenho. Famoso como o carro do Homem de Ferro.",
+    "produção": "2006-2024.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Audi_R8"
+  },
+  {
+    "nome": "959",
+    "marca": "Porsche",
+    "design": "Baseado no 911, mas com uma carroceria mais suave e aerodinâmica para estabilidade em alta velocidade.",
+    "mecanica": "O carro tecnologicamente mais avançado de sua época, com tração integral controlada eletronicamente, motor boxer biturbo e suspensão ajustável.",
+    "popularidade": "Um 'homologation special' para o rali do Grupo B, rival do Ferrari F40 e um marco tecnológico.",
+    "produção": "1986-1993.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_959"
+  },
+  {
+    "nome": "944",
+    "marca": "Porsche",
+    "design": "Evolução do 924, com para-lamas alargados e um visual mais musculoso.",
+    "mecanica": "Motor dianteiro de 4 cilindros (desenvolvido pela Porsche) e transeixo traseiro para equilíbrio de peso ideal.",
+    "popularidade": "Um sucesso de vendas para a Porsche nos anos 80, elogiado por sua excelente dirigibilidade e equilíbrio.",
+    "produção": "1982-1991.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_944"
+  },
+  {
+    "nome": "Boxster",
+    "marca": "Porsche",
+    "design": "Roadster de motor central com design inspirado no 550 Spyder e no 911 (996), com o qual compartilhava os faróis.",
+    "mecanica": "Introduziu o motor boxer de 6 cilindros refrigerado a água na Porsche, montado em posição central.",
+    "popularidade": "Salvou a Porsche da falência nos anos 90, oferecendo uma experiência de condução fantástica a um preço mais acessível que o 911.",
+    "produção": "1996-presente (agora como 718 Boxster).",
+    "categoria": "Roadster",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_Boxster"
+  },
+  {
+    "nome": "Cayenne",
+    "marca": "Porsche",
+    "design": "SUV com elementos de design da Porsche, como os faróis e para-lamas, uma aposta controversa na época.",
+    "mecanica": "Compartilha a plataforma com o VW Touareg, mas com motores e ajuste de suspensão da Porsche, oferecendo desempenho de carro esportivo em um SUV.",
+    "popularidade": "Outro modelo que salvou a Porsche, um enorme sucesso comercial que financiou o desenvolvimento de carros como o Carrera GT.",
+    "produção": "2002-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_Cayenne"
+  },
+  {
+    "nome": "Panamera",
+    "marca": "Porsche",
+    "design": "Um '911 de quatro portas', um sedan de luxo com uma linha de teto fastback. A primeira geração teve um design traseiro controverso.",
+    "mecanica": "Sedan de alto desempenho com motor dianteiro, tração traseira ou integral, e a dinâmica de condução esperada de um Porsche.",
+    "popularidade": "A resposta da Porsche para sedans de luxo como o Mercedes CLS, um sucesso de vendas.",
+    "produção": "2009-presente.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Porsche_Panamera"
+  },
+  {
+    "nome": "F50",
+    "marca": "Ferrari",
+    "design": "Design com uma enorme asa traseira integrada à carroceria e um nariz inspirado na F1.",
+    "mecanica": "Um 'carro de Fórmula 1 para as ruas', com motor V12 derivado diretamente da F1, que era parte estrutural do chassi.",
+    "popularidade": "Viveu à sombra do F40, mas hoje é valorizado por sua tecnologia de F1 e experiência de condução visceral.",
+    "produção": "1995-1997, limitado a 349 unidades.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_F50"
+  },
+  {
+    "nome": "360 Modena",
+    "marca": "Ferrari",
+    "design": "Marcou uma nova era de design para a Ferrari, com linhas mais curvas e suaves, e uma tampa de vidro para exibir o motor.",
+    "mecanica": "Primeira Ferrari com chassi e carroceria totalmente em alumínio, motor V8 de alta rotação.",
+    "popularidade": "Um grande salto em usabilidade e desempenho em relação ao seu antecessor (F355), um sucesso comercial.",
+    "produção": "1999-2005.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_360"
+  },
+  {
+    "nome": "458 Italia",
+    "marca": "Ferrari",
+    "design": "Design aerodinâmico e agressivo da Pininfarina, com três saídas de escape centrais e faróis de LED afilados.",
+    "mecanica": "O último motor V8 aspirado de motor central da Ferrari, uma obra-prima da engenharia que girava a 9000 RPM.",
+    "popularidade": "Aclamado como um dos melhores supercarros de todos os tempos, celebrado por seu motor, design e dirigibilidade.",
+    "produção": "2009-2015.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Ferrari_458_Italia"
+  },
+  {
+    "nome": "Dino 246 GT",
+    "marca": "Ferrari",
+    "design": "Carro esportivo de motor central com linhas curvas e sensuais, considerado um dos designs mais bonitos da história.",
+    "mecanica": "Primeiro carro de rua da Ferrari com motor central. Usava um motor V6 em vez do tradicional V12.",
+    "popularidade": "Inicialmente não foi vendido como uma Ferrari, mas como uma marca separada (Dino). Hoje é um dos clássicos mais amados e valorizados.",
+    "produção": "1969-1974.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Dino_246"
+  },
+  {
+    "nome": "Diablo",
+    "marca": "Lamborghini",
+    "design": "Sucessor do Countach, com um design em cunha mais suave e arredondado, mas ainda dramático.",
+    "mecanica": "Motor V12, tração traseira (posteriormente integral sob o controle da Audi), um supercarro notoriamente difícil de dirigir.",
+    "popularidade": "O principal supercarro da Lamborghini nos anos 90, o último antes da aquisição pela Audi.",
+    "produção": "1990-2001.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Diablo"
+  },
+  {
+    "nome": "Murciélago",
+    "marca": "Lamborghini",
+    "design": "O primeiro Lamborghini sob o controle da Audi, com um design mais limpo, mas ainda agressivo, e entradas de ar laterais ativas.",
+    "mecanica": "O último Lamborghini a usar o motor V12 descendente do original dos anos 60, tração integral.",
+    "popularidade": "Famoso como o carro do Batman em 'Batman Begins', marcou a transição da Lamborghini para a era moderna.",
+    "produção": "2001-2010.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Murci%C3%A9lago"
+  },
+  {
+    "nome": "Gallardo",
+    "marca": "Lamborghini",
+    "design": "O 'baby Lambo', um supercarro V10 menor e mais acessível, com design angular e agressivo.",
+    "mecanica": "Motor V10 e tração integral, compartilhando tecnologia com o Audi R8.",
+    "popularidade": "O Lamborghini mais vendido da história na época, tornou a marca mais acessível e foi um enorme sucesso comercial.",
+    "produção": "2003-2013.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Gallardo"
+  },
+  {
+    "nome": "Huracán",
+    "marca": "Lamborghini",
+    "design": "Sucessor do Gallardo, com design hexagonal e linhas ainda mais afiadas, inspiradas em caças a jato.",
+    "mecanica": "Motor V10 aspirado, tração integral ou traseira (em algumas versões), e transmissão de dupla embreagem.",
+    "popularidade": "Um enorme sucesso de vendas, continuou o legado do Gallardo com ainda mais tecnologia e desempenho.",
+    "produção": "2014-2024.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+  },
+  {
+    "nome": "Urus",
+    "marca": "Lamborghini",
+    "design": "Um 'Super SUV' com o design angular e agressivo da Lamborghini aplicado a um utilitário esportivo.",
+    "mecanica": "Baseado na mesma plataforma do Audi Q8 e Porsche Cayenne, mas com um motor V8 biturbo e ajuste Lamborghini.",
+    "popularidade": "Um sucesso de vendas estrondoso que dobrou a produção da Lamborghini, muito popular entre celebridades.",
+    "produção": "2018-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_Urus"
+  },
+  {
+    "nome": "LM002",
+    "marca": "Lamborghini",
+    "design": "Um SUV militarístico e brutal, apelidado de 'Rambo Lambo'.",
+    "mecanica": "Originado de um protótipo militar, usava o motor V12 do Countach e tração 4x4.",
+    "popularidade": "O primeiro SUV da Lamborghini, um veículo extravagante e raro, um ícone cult.",
+    "produção": "1986-1993.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Lamborghini_LM002"
+  },
+  {
+    "nome": "DB9",
+    "marca": "Aston Martin",
+    "design": "GT com design elegante e atemporal que definiu a linguagem de design da Aston Martin moderna.",
+    "mecanica": "Primeiro carro construído na plataforma VH (Vertical/Horizontal) da Aston Martin, com motor V12.",
+    "popularidade": "Um enorme sucesso que rejuvenesceu a marca Aston Martin no século XXI.",
+    "produção": "2004-2016.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Aston_Martin_DB9"
+  },
+  {
+    "nome": "Vanquish",
+    "marca": "Aston Martin",
+    "design": "GT musculoso que foi o carro-chefe da Aston Martin no início dos anos 2000.",
+    "mecanica": "Motor V12 e um chassi avançado que combinava alumínio e fibra de carbono.",
+    "popularidade": "Famoso como o carro de James Bond em 'Um Novo Dia para Morrer'.",
+    "produção": "2001-2007.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Aston_Martin_Vanquish"
+  },
+  {
+    "nome": "One-77",
+    "marca": "Aston Martin",
+    "design": "Hipercarro com design dramático e carroceria de alumínio feita à mão.",
+    "mecanica": "Chassi monocoque de fibra de carbono e o motor V12 aspirado mais potente do mundo na época.",
+    "popularidade": "O auge da engenharia da Aston Martin, um carro extremamente raro e caro.",
+    "produção": "2009-2012, limitado a 77 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Aston_Martin_One-77"
+  },
+  {
+    "nome": "Valkyrie",
+    "marca": "Aston Martin",
+    "design": "Um carro de F1 para as ruas, com aerodinâmica radical projetada por Adrian Newey, incluindo túneis Venturi gigantes.",
+    "mecanica": "Motor V12 aspirado da Cosworth que gira a mais de 11.000 RPM, combinado com um sistema híbrido.",
+    "popularidade": "Um dos hipercarros mais extremos já concebidos, empurrando os limites da tecnologia e aerodinâmica.",
+    "produção": "2021-presente, produção muito limitada.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Aston_Martin_Valkyrie"
+  },
+  {
+    "nome": "720S",
+    "marca": "McLaren",
+    "design": "Design inspirado no grande tubarão branco, com órbitas oculares vazadas que funcionam como entradas de ar para os radiadores.",
+    "mecanica": "Chassi monocoque de fibra de carbono (Monocage II), motor V8 biturbo e suspensão hidráulica proativa.",
+    "popularidade": "Aclamado por seu desempenho explosivo e dirigibilidade, estabeleceu um novo padrão para supercarros.",
+    "produção": "2017-2022.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/McLaren_720S"
+  },
+  {
+    "nome": "Senna",
+    "marca": "McLaren",
+    "design": "Design brutal e focado na função, onde 'a forma segue a função', com uma asa traseira gigante e aerodinâmica ativa.",
+    "mecanica": "O carro de rua mais focado em pista da McLaren, com o objetivo de ser o mais rápido em um circuito, não em velocidade máxima.",
+    "popularidade": "Uma homenagem ao lendário piloto Ayrton Senna, um carro que personifica a busca pela performance máxima.",
+    "produção": "2018-2019, limitado a 500 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/McLaren_Senna"
+  },
+  {
+    "nome": "XJ220",
+    "marca": "Jaguar",
+    "design": "Supercarro extremamente longo, baixo e largo, com um design liso e aerodinâmico.",
+    "mecanica": "O protótipo tinha um motor V12 e tração integral, mas a versão de produção usou um motor V6 biturbo derivado de rali e tração traseira.",
+    "popularidade": "Foi o carro de produção mais rápido do mundo por um breve período, mas sofreu com a recessão econômica e a mudança de especificações.",
+    "produção": "1992-1994.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Jaguar_XJ220"
+  },
+  {
+    "nome": "F-Type",
+    "marca": "Jaguar",
+    "design": "Considerado o sucessor espiritual do E-Type, um carro esportivo com design musculoso e elegante.",
+    "mecanica": "Disponível com motores V6 e V8 supercharged, famoso por seu som de escape alto e teatral.",
+    "popularidade": "Aclamado por seu belo design e som emocionante, um retorno da Jaguar aos carros esportivos de dois lugares.",
+    "produção": "2013-2024.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Jaguar_F-Type"
+  },
+  {
+    "nome": "Phantom",
+    "marca": "Rolls-Royce",
+    "design": "Sedan de luxo imponente com a grade 'Panteão' e o ornamento 'Spirit of Ecstasy'. As portas traseiras são do tipo 'suicida'.",
+    "mecanica": "Motor V12, foco total em silêncio e conforto, com um 'passeio de tapete mágico' proporcionado pela suspensão a ar.",
+    "popularidade": "O auge do luxo automotivo, sinônimo de opulência e artesanato sob medida.",
+    "produção": "2003-presente (sétima e oitava gerações), o carro-chefe da Rolls-Royce.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Rolls-Royce_Phantom"
+  },
+  {
+    "nome": "Ghost",
+    "marca": "Rolls-Royce",
+    "design": "Um Rolls-Royce menor e mais 'discreto' (para os padrões da marca), voltado para quem também gosta de dirigir.",
+    "mecanica": "Baseado na plataforma do BMW Série 7, mas extensivamente modificado, com motor V12.",
+    "popularidade": "Um modelo de 'entrada' que se tornou um grande sucesso de vendas, atraindo um público mais jovem para a marca.",
+    "produção": "2009-presente.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Rolls-Royce_Ghost"
+  },
+  {
+    "nome": "Cullinan",
+    "marca": "Rolls-Royce",
+    "design": "O primeiro SUV da Rolls-Royce, aplicando o design imponente da marca a um formato de utilitário esportivo.",
+    "mecanica": "Baseado na mesma plataforma 'Architecture of Luxury' do Phantom, com motor V12 e tração integral.",
+    "popularidade": "Um sucesso de vendas que capitalizou na popularidade dos SUVs de luxo, apesar da controvérsia inicial.",
+    "produção": "2018-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Rolls-Royce_Cullinan"
+  },
+  {
+    "nome": "Continental GT",
+    "marca": "Bentley",
+    "design": "GT de luxo com design musculoso e elegante que redefiniu a Bentley sob a propriedade da VW.",
+    "mecanica": "Motor W12 (dois V6s juntos), tração integral e um interior luxuoso com madeira e couro.",
+    "popularidade": "Um enorme sucesso que transformou a Bentley de uma marca de nicho para um player global de luxo. Popular entre atletas e celebridades.",
+    "produção": "2003-presente.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Bentley_Continental_GT"
+  },
+  {
+    "nome": "Mulsanne",
+    "marca": "Bentley",
+    "design": "O carro-chefe da Bentley, um grande sedan de luxo com design mais tradicional e imponente.",
+    "mecanica": "Usava o lendário motor V8 de 6,75 litros da Bentley, um motor com origens nos anos 50.",
+    "popularidade": "O último 'verdadeiro' Bentley para muitos, com uma plataforma e motor exclusivos da marca.",
+    "produção": "2010-2020.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Bentley_Mulsanne"
+  },
+  {
+    "nome": "Bentayga",
+    "marca": "Bentley",
+    "design": "O primeiro SUV da Bentley, combinando o luxo da marca com a praticidade de um utilitário.",
+    "mecanica": "Baseado na mesma plataforma do Audi Q7/Porsche Cayenne, disponível com motores W12, V8 e híbrido.",
+    "popularidade": "Um dos SUVs mais luxuosos e rápidos do mercado, um enorme sucesso de vendas para a Bentley.",
+    "produção": "2015-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Bentley_Bentayga"
+  },
+  {
+    "nome": "Veyron Super Sport",
+    "marca": "Bugatti",
+    "design": "Versão de alto desempenho do Veyron, com carroceria de fibra de carbono exposta e aerodinâmica otimizada.",
+    "mecanica": "Motor W16 com 1200 cv, projetado para quebrar o recorde de velocidade para carros de produção.",
+    "popularidade": "Detentor do Recorde Mundial do Guinness como o carro de produção mais rápido do mundo na época, atingindo 431 km/h.",
+    "produção": "2010-2011, produção limitada.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Bugatti_Veyron"
+  },
+  {
+    "nome": "Divo",
+    "marca": "Bugatti",
+    "design": "Baseado no Chiron, mas com uma carroceria totalmente nova, focada em agilidade e downforce, com uma grande asa traseira fixa.",
+    "mecanica": "Usa o mesmo motor do Chiron, mas com um chassi e aerodinâmica ajustados para desempenho em curvas, não para velocidade máxima.",
+    "popularidade": "Um Bugatti focado na dirigibilidade, um modelo de 'coachbuilding' moderno e muito exclusivo.",
+    "produção": "2020-2021, limitado a 40 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Bugatti_Divo"
+  },
+  {
+    "nome": "Quattroporte",
+    "marca": "Maserati",
+    "design": "Pioneiro do segmento de 'sedan superesportivo', combinando o luxo de um sedan com o desempenho de um GT.",
+    "mecanica": "Equipado com motores V8 derivados de carros de corrida, oferecendo desempenho de carro esportivo em um pacote de quatro portas.",
+    "popularidade": "Um nome icônico que representa a combinação de luxo e desempenho italiano por décadas.",
+    "produção": "1963-presente (em várias gerações).",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Maserati_Quattroporte"
+  },
+  {
+    "nome": "MC12",
+    "marca": "Maserati",
+    "design": "Baseado no Ferrari Enzo, mas mais longo, largo e com uma carroceria distinta em azul e branco para as corridas.",
+    "mecanica": "Um 'homologation special' para corridas de GT, compartilhando o motor V12 e o chassi do Enzo.",
+    "popularidade": "Mais raro que o Enzo, um carro de corrida de muito sucesso que dominou o campeonato FIA GT.",
+    "produção": "2004-2005, limitado a 50 unidades de rua.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Maserati_MC12"
+  },
+  {
+    "nome": "GranTurismo",
+    "marca": "Maserati",
+    "design": "GT de luxo com um design elegante e atemporal da Pininfarina, considerado um dos carros mais bonitos de sua época.",
+    "mecanica": "Motor V8 de origem Ferrari, famoso por produzir um dos sons mais bonitos da indústria automotiva.",
+    "popularidade": "Aclamado por seu design e som, um GT que combina estilo, conforto e alma italiana.",
+    "produção": "2007-2019.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Maserati_GranTurismo"
+  },
+  {
+    "nome": "4C",
+    "marca": "Alfa Romeo",
+    "design": "Um 'baby supercar' com design exótico e compacto.",
+    "mecanica": "Chassi monocoque de fibra de carbono (raro nesta faixa de preço), motor 4 cilindros turbo central e sem direção hidráulica para uma experiência pura.",
+    "popularidade": "Celebrado por sua dirigibilidade pura e focada, um carro esportivo sem concessões.",
+    "produção": "2013-2020.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Alfa_Romeo_4C"
+  },
+  {
+    "nome": "Giulia Quadrifoglio",
+    "marca": "Alfa Romeo",
+    "design": "Sedan esportivo com design italiano apaixonado e o icônico trevo de quatro folhas.",
+    "mecanica": "Motor V6 biturbo 'derivado da Ferrari', tração traseira e uma dirigibilidade aclamada pela crítica.",
+    "popularidade": "Marcou o retorno da Alfa Romeo ao mercado norte-americano e foi amplamente elogiado como um dos melhores sedans esportivos, rivalizando com o BMW M3.",
+    "produção": "2016-presente.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Alfa_Romeo_Giulia_(952)"
+  },
+  {
+    "nome": "Stelvio Quadrifoglio",
+    "marca": "Alfa Romeo",
+    "design": "SUV de alto desempenho que aplica o estilo do Giulia a um formato maior.",
+    "mecanica": "Compartilha o motor V6 biturbo com o Giulia, mas com tração integral Q4.",
+    "popularidade": "Por um tempo, foi o SUV de produção mais rápido no circuito de Nürburgring, provando que SUVs podem ter alma de carro esportivo.",
+    "produção": "2017-presente.",
+    "categoria": "SUV",
+    "link": "https://pt.wikipedia.org/wiki/Alfa_Romeo_Stelvio"
+  },
+  {
+    "nome": "LFA",
+    "marca": "Lexus",
+    "design": "Supercarro com design angular e chassi de polímero reforçado com fibra de carbono.",
+    "mecanica": "Famoso por seu motor V10 aspirado desenvolvido em parceria com a Yamaha, que produz um som comparado ao de um carro de F1.",
+    "popularidade": "Um projeto de paixão da Lexus, celebrado por sua engenharia obsessiva e som de motor inesquecível.",
+    "produção": "2010-2012, limitado a 500 unidades.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Lexus_LFA"
+  },
+  {
+    "nome": "LC 500",
+    "marca": "Lexus",
+    "design": "GT de luxo com um design de carro conceito que chegou à produção quase inalterado.",
+    "mecanica": "Motor V8 aspirado, focado em uma experiência de Gran Turismo de luxo e som.",
+    "popularidade": "Aclamado como um dos carros mais bonitos à venda, elogiado por seu design arrojado e qualidade de construção.",
+    "produção": "2017-presente.",
+    "categoria": "GT",
+    "link": "https://pt.wikipedia.org/wiki/Lexus_LC"
+  },
+  {
+    "nome": "IS F",
+    "marca": "Lexus",
+    "design": "Sedan esportivo com para-lamas alargados e saídas de escape quádruplas empilhadas de forma única.",
+    "mecanica": "A primeira incursão da Lexus no território do BMW M3, com um motor V8 de 5.0 litros.",
+    "popularidade": "O primeiro modelo da linha 'F' de alto desempenho da Lexus.",
+    "produção": "2007-2014.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Lexus_IS"
+  },
+  {
+    "nome": "Q60",
+    "marca": "Infiniti",
+    "design": "Coupé de luxo com design elegante e fluido.",
+    "mecanica": "Disponível com um potente motor V6 biturbo, mas criticado por seu sistema de direção 'drive-by-wire'.",
+    "popularidade": "Um coupé estiloso que compete com rivais alemães como o BMW Série 4 e Audi A5.",
+    "produção": "2016-2022.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Infiniti_Q60"
+  },
+  {
+    "nome": "G35",
+    "marca": "Infiniti",
+    "design": "Coupé e sedan esportivo que ajudou a estabelecer a Infiniti como uma marca de luxo de desempenho.",
+    "mecanica": "Baseado na mesma plataforma do Nissan 350Z, com motor V6 e tração traseira.",
+    "popularidade": "Um sucesso de crítica e vendas, elogiado por sua dirigibilidade e desempenho, rivalizando com o BMW Série 3.",
+    "produção": "2002-2008.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Infiniti_G"
+  },
+  {
+    "nome": "NSX (2nd Gen)",
+    "marca": "Acura",
+    "design": "Supercarro com design moderno e angular, mantendo as proporções de motor central do original.",
+    "mecanica": "Supercarro híbrido complexo, com motor V6 biturbo e três motores elétricos, proporcionando tração integral e vetorização de torque.",
+    "popularidade": "Um tour de force tecnológico, mas que lutou para capturar a mesma magia e impacto do original.",
+    "produção": "2016-2022.",
+    "categoria": "Supercar",
+    "link": "https://pt.wikipedia.org/wiki/Honda_NSX_(2016)"
+  },
+  {
+    "nome": "Integra Type R",
+    "marca": "Acura",
+    "design": "Coupé de tração dianteira com um design simples, mas com um aerofólio traseiro alto e funcional.",
+    "mecanica": "Motor 1.8 VTEC de alta rotação, chassi reforçado e diferencial de deslizamento limitado, focado em desempenho puro.",
+    "popularidade": "Considerado por muitos o melhor carro de tração dianteira de todos os tempos, celebrado por sua dirigibilidade e motor vibrante.",
+    "produção": "1995-2001, um ícone da cultura JDM.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Honda_Integra_Type_R"
+  },
+  {
+    "nome": "Genesis G70",
+    "marca": "Genesis",
+    "design": "Sedan esportivo de luxo com a grade 'crest' característica da Genesis.",
+    "mecanica": "Baseado na mesma plataforma do Kia Stinger, com tração traseira e um potente motor V6 biturbo opcional.",
+    "popularidade": "Aclamado pela crítica por sua excelente dirigibilidade e valor, estabelecendo a Genesis como uma concorrente séria para as marcas alemãs.",
+    "produção": "2017-presente.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Genesis_G70"
+  },
+  {
+    "nome": "Stinger GT",
+    "marca": "Kia",
+    "design": "Sedan fastback de quatro portas com design arrojado e esportivo.",
+    "mecanica": "Tração traseira (ou integral) e um motor V6 biturbo, desenvolvido sob a liderança do ex-chefe da divisão M da BMW.",
+    "popularidade": "Um carro que mudou a percepção da Kia, provando que a marca poderia fazer um sedan esportivo desejável e de alto desempenho.",
+    "produção": "2017-2023.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/Kia_Stinger"
+  },
+  {
+    "nome": "Veloster N",
+    "marca": "Hyundai",
+    "design": "Hatchback assimétrico com uma porta do lado do motorista e duas do lado do passageiro, com detalhes em azul claro da linha N.",
+    "mecanica": "Primeiro modelo da linha de alto desempenho 'N' da Hyundai nos EUA, um hot hatch com motor turbo e som de escape vibrante.",
+    "popularidade": "Aclamado por sua dirigibilidade divertida e caráter, estabeleceu a Hyundai como uma marca de desempenho séria.",
+    "produção": "2018-2022.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Hyundai_Veloster#Veloster_N"
+  },
+  {
+    "nome": "GR Yaris",
+    "marca": "Toyota",
+    "design": "Baseado no Yaris, mas com uma carroceria de 3 portas totalmente nova, para-lamas alargados e teto de fibra de carbono.",
+    "mecanica": "Um 'homologation special' para o WRC, com motor 3 cilindros turbo mais potente do mundo e um sistema de tração integral ajustável.",
+    "popularidade": "Aclamado universalmente como um dos melhores carros do ano, um ícone instantâneo e um presente para os entusiastas.",
+    "produção": "2020-presente.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_GR_Yaris"
+  },
+  {
+    "nome": "GR Supra",
+    "marca": "Toyota",
+    "design": "Coupé esportivo com design dramático inspirado no conceito FT-1 e no Supra A80.",
+    "mecanica": "Desenvolvido em parceria com a BMW, compartilha plataforma e motor (6 cilindros em linha) com o BMW Z4.",
+    "popularidade": "O retorno de um nome lendário, gerou debate pela parceria com a BMW, mas foi elogiado por seu desempenho.",
+    "produção": "2019-presente.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_Supra#Quinta_gera%C3%A7%C3%A3o_(J29/DB;_2019)"
+  },
+  {
+    "nome": "GR86",
+    "marca": "Toyota",
+    "design": "Coupé esportivo leve e acessível, uma evolução do GT86.",
+    "mecanica": "Desenvolvido em parceria com a Subaru (que tem o modelo BRZ), com motor boxer e tração traseira, focado na diversão ao dirigir.",
+    "popularidade": "Elogiado por corrigir a principal crítica de seu antecessor: a falta de potência, graças a um motor maior (2.4L).",
+    "produção": "2021-presente.",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Toyota_86"
+  },
+  {
+    "nome": "Civic Type R",
+    "marca": "Honda",
+    "design": "Versão de mais alto desempenho do Civic, com design agressivo, aerofólios grandes e detalhes em vermelho.",
+    "mecanica": "Motor VTEC turbo de alta potência, tração dianteira e chassi ajustado para desempenho em pista.",
+    "popularidade": "Uma referência entre os 'hot hatches' de tração dianteira, famoso por quebrar recordes em circuitos como Nürburgring.",
+    "produção": "1997-presente (em várias gerações).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Honda_Civic_Type_R"
+  },
+  {
+    "nome": "Fairlady Z",
+    "marca": "Nissan",
+    "design": "Coupé esportivo com capô longo e traseira fastback, oferecendo estilo de carro esportivo europeu a um preço acessível.",
+    "mecanica": "Motor 6 cilindros em linha e tração traseira.",
+    "popularidade": "Um enorme sucesso, especialmente nos EUA (vendido como Datsun 240Z), que estabeleceu o Japão como um produtor de carros esportivos sérios.",
+    "produção": "1969-presente (em várias gerações).",
+    "categoria": "Sports Car",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_Fairlady_Z"
+  },
+  {
+    "nome": "Silvia S15",
+    "marca": "Nissan",
+    "design": "Coupé esportivo compacto com design agressivo e elegante.",
+    "mecanica": "Motor 2.0 turbo (SR20DET) e tração traseira, uma plataforma leve e bem equilibrada.",
+    "popularidade": "Um ícone da cultura do drift, extremamente popular para modificação e competições de drift.",
+    "produção": "1999-2002, a última geração da lendária linha Silvia.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Nissan_Silvia"
+  },
+  {
+    "nome": "Focus RS",
+    "marca": "Ford",
+    "design": "Versão de topo do Focus, com design agressivo e aerodinâmica funcional.",
+    "mecanica": "A terceira geração ficou famosa por seu sistema de tração integral com 'Drift Mode', permitindo derrapagens controladas.",
+    "popularidade": "Um 'hot hatch' aclamado por sua dirigibilidade divertida e inovadora.",
+    "produção": "2002-2018 (em três gerações).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Focus_RS"
+  },
+  {
+    "nome": "Fiesta ST",
+    "marca": "Ford",
+    "design": "Versão esportiva do Fiesta, um 'pocket rocket' com um visual mais agressivo.",
+    "mecanica": "Motor turbo (1.6 EcoBoost, depois 1.5 de 3 cilindros) e um chassi extremamente ágil e divertido.",
+    "popularidade": "Consistentemente elogiado como um dos 'hot hatches' mais divertidos e envolventes de dirigir, independentemente do preço.",
+    "produção": "2004-2023 (versões ST).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Ford_Fiesta#ST"
+  },
+  {
+    "nome": "Corsa VXR",
+    "marca": "Vauxhall",
+    "design": "Versão esportiva do Corsa (vendido como Opel na Europa continental) com um kit de carroceria agressivo e escape triangular.",
+    "mecanica": "Motor 1.6 turbo e chassi ajustado para desempenho.",
+    "popularidade": "Um popular 'hot hatch' no Reino Unido, conhecido por seu desempenho vigoroso.",
+    "produção": "2007-2018.",
+    "categoria": "Hatch",
+    "link": "https://en.wikipedia.org/wiki/Opel_Corsa#Corsa_D_(2006)"
+  },
+  {
+    "nome": "Astra VXR",
+    "marca": "Vauxhall",
+    "design": "Versão de alto desempenho do Astra, com um design de coupé de 3 portas e visual agressivo.",
+    "mecanica": "Motor 2.0 turbo com alta potência para um carro de tração dianteira, resultando em uma entrega de potência selvagem.",
+    "popularidade": "Conhecido por seu desempenho em linha reta e caráter um tanto indomável.",
+    "produção": "2005-2015.",
+    "categoria": "Hatch",
+    "link": "https://en.wikipedia.org/wiki/Opel_Astra#Astra_H_(A04)_(2004%E2%80%932010)"
+  },
+  {
+    "nome": "Megane R.S.",
+    "marca": "Renault",
+    "design": "Versão de alto desempenho do Megane, com design esportivo e, em algumas gerações, um visual de coupé distinto.",
+    "mecanica": "Desenvolvido pela Renault Sport, famoso por seu chassi excepcionalmente bem acertado e eficácia em pista.",
+    "popularidade": "Um dos 'hot hatches' mais respeitados pela crítica, frequentemente quebrando recordes para carros de tração dianteira em Nürburgring.",
+    "produção": "2004-2023.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Renault_M%C3%A9gane_Renault_Sport"
+  },
+  {
+    "nome": "Leon Cupra",
+    "marca": "Seat",
+    "design": "Versão de alto desempenho do Seat Leon, compartilhando plataforma e motores com o VW Golf GTI/R, mas com um design mais arrojado.",
+    "mecanica": "Mecânica do Grupo VW, oferecendo alto desempenho a um preço competitivo.",
+    "popularidade": "Uma alternativa mais estilosa e acessível ao Golf GTI/R, muito popular na Europa.",
+    "produção": "2000-presente (agora como uma marca separada, Cupra).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/SEAT_Le%C3%B3n"
+  },
+  {
+    "nome": "i30 N",
+    "marca": "Hyundai",
+    "design": "O primeiro 'hot hatch' da Hyundai, com um design esportivo e detalhes em azul claro da linha N.",
+    "mecanica": "Desenvolvido sob a liderança do ex-chefe da divisão M da BMW, focado em diversão ao dirigir e som de escape alto.",
+    "popularidade": "Um sucesso de crítica que estabeleceu a linha 'N' da Hyundai como uma concorrente séria no mercado de carros de desempenho.",
+    "produção": "2017-presente.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Hyundai_i30#i30_N"
+  },
+  {
+    "nome": "Golf R",
+    "marca": "Volkswagen",
+    "design": "A versão de topo do Golf, com um design mais discreto e sofisticado que o GTI.",
+    "mecanica": "Motor 2.0 turbo mais potente e tração integral 4Motion, oferecendo desempenho em todas as condições climáticas.",
+    "popularidade": "O 'super Golf', que combina a praticidade do Golf com desempenho de carro esportivo e tração integral.",
+    "produção": "2002-presente (começou como R32 com motor VR6).",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Golf_R"
+  },
+  {
+    "nome": "Scirocco R",
+    "marca": "Volkswagen",
+    "design": "Coupé esportivo com design baixo e largo, mais agressivo que o do Golf.",
+    "mecanica": "Compartilha a plataforma e o motor do Golf GTI/R, mas com um foco maior em estilo.",
+    "popularidade": "Um coupé estiloso e popular na Europa, visto como uma alternativa mais arrojada ao Golf.",
+    "produção": "2008-2017 (terceira geração).",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Scirocco"
+  },
+  {
+    "nome": "Corrado VR6",
+    "marca": "Volkswagen",
+    "design": "Coupé esportivo com design em cunha e um aerofólio traseiro ativo que se levantava com a velocidade.",
+    "mecanica": "Famoso por seu motor VR6, um motor compacto com características de V6 e 6 em linha, e um som único.",
+    "popularidade": "Um ícone cult dos anos 90, elogiado por sua dirigibilidade e pelo som de seu motor VR6.",
+    "produção": "1988-1995.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Volkswagen_Corrado"
+  },
+  {
+    "nome": "A1 Quattro",
+    "marca": "Audi",
+    "design": "Hatchback compacto com para-lamas alargados, rodas brancas de estilo 'turbina' e um grande aerofólio traseiro.",
+    "mecanica": "Motor 2.0 turbo e tração integral Quattro em um pacote pequeno, um 'pocket rocket' de edição limitada.",
+    "popularidade": "Um carro de rali para as ruas, uma edição especial muito rara e desejada.",
+    "produção": "2012, limitado a 333 unidades.",
+    "categoria": "Hatch",
+    "link": "https://en.wikipedia.org/wiki/Audi_A1#A1_quattro_(2012)"
+  },
+  {
+    "nome": "S1",
+    "marca": "Audi",
+    "design": "Versão de produção de alto desempenho do A1, com um visual esportivo, mas mais discreto que o A1 Quattro.",
+    "mecanica": "Único carro em seu segmento a oferecer tração integral, combinado com um motor 2.0 turbo e câmbio manual.",
+    "popularidade": "Um 'hot hatch' premium e compacto, elogiado por seu desempenho e tração em todas as condições.",
+    "produção": "2014-2018.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Audi_S1"
+  },
+  {
+    "nome": "RS3",
+    "marca": "Audi",
+    "design": "Versão de topo do A3, um 'hyper hatch' com para-lamas alargados e grandes entradas de ar.",
+    "mecanica": "Famoso por seu motor 5 cilindros turbo, uma homenagem ao Audi Quattro original, com um som muito característico.",
+    "popularidade": "Popular por seu desempenho em linha reta e som único, um dos 'hot hatches' mais potentes do mercado.",
+    "produção": "2011-presente.",
+    "categoria": "Hatch",
+    "link": "https://pt.wikipedia.org/wiki/Audi_A3#RS_3"
+  },
+  {
+    "nome": "RS6 Avant",
+    "marca": "Audi",
+    "design": "A 'super perua' por excelência, com para-lamas extremamente alargados e um visual muito agressivo.",
+    "mecanica": "Motor V8 biturbo (ou V10 biturbo em uma geração) e tração integral Quattro, oferecendo desempenho de supercarro em um pacote familiar.",
+    "popularidade": "Um ícone cult, o carro dos sonhos de muitos entusiastas por sua combinação de praticidade e desempenho absurdo.",
+    "produção": "2002-presente.",
+    "categoria": "Wagon",
+    "link": "https://pt.wikipedia.org/wiki/Audi_RS6"
+  },
+  {
+    "nome": "M2",
+    "marca": "BMW",
+    "design": "Coupé compacto com para-lamas musculosos e um visual agressivo, mas divertido.",
+    "mecanica": "Motor 6 cilindros em linha turbo e tração traseira, considerado o sucessor espiritual do M3 E46.",
+    "popularidade": "Aclamado pela crítica como um dos carros M mais divertidos e envolventes em anos, um enorme sucesso.",
+    "produção": "2016-presente.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/BMW_S%C3%A9rie_2#M2"
+  },
+  {
+    "nome": "M4",
+    "marca": "BMW",
+    "design": "A versão coupé do M3. A geração G82 é famosa por sua grade dianteira vertical e controversa.",
+    "mecanica": "Motor 6 cilindros em linha biturbo, tração traseira ou integral (M xDrive), focado em desempenho de pista.",
+    "popularidade": "Uma referência no segmento de coupés esportivos, embora seu design recente tenha dividido opiniões.",
+    "produção": "2014-presente.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/BMW_M4"
+  },
+  {
+    "nome": "M5",
+    "marca": "BMW",
+    "design": "O 'super sedan' original, um Série 5 com um visual mais esportivo, mas ainda discreto.",
+    "mecanica": "Sempre equipado com motores potentes (6 em linha, V8, V10), pioneiro no conceito de sedan de alto desempenho.",
+    "popularidade": "Uma lenda que define o segmento de sedans esportivos de luxo há décadas.",
+    "produção": "1985-presente.",
+    "categoria": "Sedan",
+    "link": "https://pt.wikipedia.org/wiki/BMW_M5"
+  },
+  {
+    "nome": "C63 AMG",
+    "marca": "Mercedes-Benz",
+    "design": "Versão de alto desempenho do Classe C, um 'muscle car alemão' com um visual agressivo.",
+    "mecanica": "Famoso por seu motor V8 6.2 aspirado (geração W204), com um som de trovão, e depois por um V8 biturbo.",
+    "popularidade": "Um rival direto do BMW M3, amado por seu caráter de 'hot rod' e som de motor V8.",
+    "produção": "2008-presente (a última geração usa um motor 4 cilindros híbrido).",
+    "categoria": "Sedan",
+    "link": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class_(W204)#C_63_AMG"
+  },
+  {
+    "nome": "A45 AMG",
+    "marca": "Mercedes-Benz",
+    "design": "Versão de topo do Classe A, um 'hyper hatch' com um kit de carroceria agressivo e um grande aerofólio opcional.",
+    "mecanica": "Equipado com o motor de 4 cilindros mais potente do mundo em produção, e tração integral.",
+    "popularidade": "Levou a guerra de potência dos 'hot hatches' a um novo nível, oferecendo desempenho de supercarro em um hatchback.",
+    "produção": "2013-presente.",
+    "categoria": "Hatch",
+    "link": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class#Mercedes-AMG_A_45_4MATIC_(2013-2018)"
+  },
+  {
+    "nome": "AMG GT",
+    "marca": "Mercedes-AMG",
+    "design": "Carro esportivo com capô longo e traseira curta, um sucessor espiritual do SLS AMG, mas com portas convencionais.",
+    "mecanica": "Motor V8 biturbo 'hot-V' (turbos dentro do V do motor), tração traseira, um rival para o Porsche 911.",
+    "popularidade": "O segundo carro desenvolvido inteiramente pela AMG, um carro esportivo de sucesso e carro de segurança oficial da F1.",
+    "produção": "2014-presente.",
+    "categoria": "Coupe",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-AMG_GT"
+  },
+  {
+    "nome": "Project One",
+    "marca": "Mercedes-AMG",
+    "design": "Um carro de Fórmula 1 para as ruas, com aerodinâmica extrema e uma entrada de ar no teto.",
+    "mecanica": "Usa uma unidade de potência híbrida V6 de 1.6 litros diretamente de um carro de F1 da Mercedes, uma proeza de engenharia extremamente complexa.",
+    "popularidade": "Um dos projetos de hipercarro mais ambiciosos já tentados, trazendo a tecnologia da F1 diretamente para um carro de rua.",
+    "produção": "2022-presente, limitado a 275 unidades.",
+    "categoria": "Hypercar",
+    "link": "https://pt.wikipedia.org/wiki/Mercedes-AMG_One"
+  }
+]
